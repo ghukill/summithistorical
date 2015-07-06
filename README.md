@@ -1,2 +1,0 @@
-# summithistorical
-Summit Historical Society
