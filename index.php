@@ -158,6 +158,18 @@
                                 <i class="ion-laptop"></i>
                             </div>
                             <div class="col-md-9 services-text">
+                                <h4 class="heading-mini">sites</h4>
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut ipsum mauris. Fusce condimentum mollis eros vitae facilisis. 
+                                </p>
+                            </div>
+                        </div><!--services list-->
+                        <div class="space-30"></div>
+                        <div class="row">
+                            <div class="col-md-3 services-icon">
+                                <i class="ion-laptop"></i>
+                            </div>
+                            <div class="col-md-9 services-text">
                                 <h4 class="heading-mini">Tours</h4>
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut ipsum mauris. Fusce condimentum mollis eros vitae facilisis. 
@@ -192,7 +204,7 @@
 
                     </div>
                     <div class="col-md-5">
-                        <img src="assets/img/vert2_mus.jpg" class="img-responsive" alt="">
+                        <img style="float:right;" src="assets/img/vert2_mus.jpg" class="img-responsive" alt="">
                     </div>
                 </div>
 
