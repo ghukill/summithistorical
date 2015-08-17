@@ -2042,3 +2042,11 @@ MULTI LEVEL DROPDOWN CSS
     margin-left: 100px;
   }
 }
+
+
+
+
+/* images */
+.overflow_hide {
+  overflow:hidden;
+}
