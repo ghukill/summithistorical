@@ -265,11 +265,11 @@
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="portfolio-single.html">
-                                        <img src="assets/img/work/work-2.jpg" class="img-responsive" alt="">
+                                        <img src="assets/img/sites/fatherdyer.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>
                                 <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">portfolio item title here</h4>
+                                    <h4 class="portfolio-post-title">Father Dyer Cabin</h4>
                                     <span class="portfolio-post-cat">Breckenridge Area</span>
                                     <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
@@ -280,11 +280,11 @@
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="portfolio-single.html">
-                                        <img src="assets/img/work/work-2.jpg" class="img-responsive" alt="">
+                                        <img src="assets/img/sites/iowahill.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>
                                 <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">portfolio item title here</h4>
+                                    <h4 class="portfolio-post-title">Iowa Hill Boardinghouse</h4>
                                     <span class="portfolio-post-cat">Breckenridge Area</span>
                                     <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
@@ -295,11 +295,11 @@
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="portfolio-single.html">
-                                        <img src="assets/img/work/work-2.jpg" class="img-responsive" alt="">
+                                        <img src="assets/img/sites/summitcourthouse.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>
                                 <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">portfolio item title here</h4>
+                                    <h4 class="portfolio-post-title">Summit County Courthouse</h4>
                                     <span class="portfolio-post-cat">Breckenridge Area</span>
                                     <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
@@ -310,11 +310,11 @@
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="portfolio-single.html">
-                                        <img src="assets/img/work/work-2.jpg" class="img-responsive" alt="">
+                                        <img src="assets/img/sites/bakertank.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>
                                 <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">portfolio item title here</h4>
+                                    <h4 class="portfolio-post-title">Baker Tank</h4>
                                     <span class="portfolio-post-cat">Breckenridge Area</span>
                                     <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
@@ -325,11 +325,11 @@
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="portfolio-single.html">
-                                        <img src="assets/img/work/work-2.jpg" class="img-responsive" alt="">
+                                        <img src="assets/img/sites/bucdredge.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>
                                 <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">portfolio item title here</h4>
+                                    <h4 class="portfolio-post-title">Bucyrus Dredge</h4>
                                     <span class="portfolio-post-cat">Breckenridge Area</span>
                                     <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
@@ -340,11 +340,11 @@
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="portfolio-single.html">
-                                        <img src="assets/img/work/work-2.jpg" class="img-responsive" alt="">
+                                        <img src="assets/img/sites/boreaspasshouse.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>
                                 <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">portfolio item title here</h4>
+                                    <h4 class="portfolio-post-title">Boreas Pass Summit</h4>
                                     <span class="portfolio-post-cat">Breckenridge Area</span>
                                     <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
@@ -355,11 +355,11 @@
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="portfolio-single.html">
-                                        <img src="assets/img/work/work-2.jpg" class="img-responsive" alt="">
+                                        <img src="assets/img/sites/barneyford.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>
                                 <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">portfolio item title here</h4>
+                                    <h4 class="portfolio-post-title">Barney Ford House Museum</h4>
                                     <span class="portfolio-post-cat">Breckenridge Area</span>
                                     <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
@@ -370,11 +370,11 @@
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="portfolio-single.html">
-                                        <img src="assets/img/work/work-2.jpg" class="img-responsive" alt="">
+                                        <img src="assets/img/sites/schoolhouse.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>
                                 <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">portfolio item title here</h4>
+                                    <h4 class="portfolio-post-title">1909 Schoolhouse</h4>
                                     <span class="portfolio-post-cat">Breckenridge Area</span>
                                     <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
@@ -382,10 +382,6 @@
                         </div><!--portfolio item -->
 
                         
-
-                        
-
-
                         <!-- copper_mountain -->
                         <div class=" mix copper_mountain col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -407,11 +403,101 @@
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="portfolio-single.html">
-                                        <img src="assets/img/work/work-2.jpg" class="img-responsive" alt="">
+                                        <img src="assets/img/sites/dillondam.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>
                                 <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">portfolio item title here</h4>
+                                    <h4 class="portfolio-post-title">Dillon Dam Glory Hole</h4>
+                                    <span class="portfolio-post-cat">Dillon Area</span>
+                                    <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                                </div>
+                            </div>
+                        </div><!--portfolio item -->
+
+                        <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
+                            <div class="portfolio-sec">
+                                <div class="portfolio-thumnail">
+                                    <a href="portfolio-single.html">
+                                        <img src="assets/img/sites/dillonschoolhouse2.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>
+                                <div class="portfolio-desc text-center">
+                                    <h4 class="portfolio-post-title">Dillon Schoolhouse</h4>
+                                    <span class="portfolio-post-cat">Dillon Area</span>
+                                    <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                                </div>
+                            </div>
+                        </div><!--portfolio item -->
+
+                        <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
+                            <div class="portfolio-sec">
+                                <div class="portfolio-thumnail">
+                                    <a href="portfolio-single.html">
+                                        <img src="assets/img/sites/lula.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>
+                                <div class="portfolio-desc text-center">
+                                    <h4 class="portfolio-post-title">Lula Myers Ranch House</h4>
+                                    <span class="portfolio-post-cat">Dillon Area</span>
+                                    <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                                </div>
+                            </div>
+                        </div><!--portfolio item -->
+
+                        <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
+                            <div class="portfolio-sec">
+                                <div class="portfolio-thumnail">
+                                    <a href="portfolio-single.html">
+                                        <img src="assets/img/sites/honeymoon.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>
+                                <div class="portfolio-desc text-center">
+                                    <h4 class="portfolio-post-title">Honeymoon Cabin</h4>
+                                    <span class="portfolio-post-cat">Dillon Area</span>
+                                    <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                                </div>
+                            </div>
+                        </div><!--portfolio item -->
+
+                        <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
+                            <div class="portfolio-sec">
+                                <div class="portfolio-thumnail">
+                                    <a href="portfolio-single.html">
+                                        <img src="assets/img/sites/ricebarn.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>
+                                <div class="portfolio-desc text-center">
+                                    <h4 class="portfolio-post-title">Rice Barn</h4>
+                                    <span class="portfolio-post-cat">Dillon Area</span>
+                                    <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                                </div>
+                            </div>
+                        </div><!--portfolio item -->
+
+                        <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
+                            <div class="portfolio-sec">
+                                <div class="portfolio-thumnail">
+                                    <a href="portfolio-single.html">
+                                        <img src="assets/img/sites/dilloncemetery.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>
+                                <div class="portfolio-desc text-center">
+                                    <h4 class="portfolio-post-title">Dillon Cemetery</h4>
+                                    <span class="portfolio-post-cat">Dillon Area</span>
+                                    <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                                </div>
+                            </div>
+                        </div><!--portfolio item -->
+
+                        <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
+                            <div class="portfolio-sec">
+                                <div class="portfolio-thumnail">
+                                    <a href="portfolio-single.html">
+                                        <img src="assets/img/sites/antiquefiretruck.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>
+                                <div class="portfolio-desc text-center">
+                                    <h4 class="portfolio-post-title">Antique Fire Truck</h4>
                                     <span class="portfolio-post-cat">Dillon Area</span>
                                     <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
@@ -423,11 +509,71 @@
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="portfolio-single.html">
-                                        <img src="assets/img/work/work-2.jpg" class="img-responsive" alt="">
+                                        <img src="assets/img/sites/charcoalkilns.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>
                                 <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">portfolio item title here</h4>
+                                    <h4 class="portfolio-post-title">Charcoal Kilns</h4>
+                                    <span class="portfolio-post-cat">Frisco Area</span>
+                                    <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                                </div>
+                            </div>
+                        </div><!--portfolio item -->
+
+                        <div class=" mix frisco col-md-4 col-sm-6 margin-btm-40 no-padding">
+                            <div class="portfolio-sec">
+                                <div class="portfolio-thumnail">
+                                    <a href="portfolio-single.html">
+                                        <img src="assets/img/sites/friscocemetery.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>
+                                <div class="portfolio-desc text-center">
+                                    <h4 class="portfolio-post-title">Frisco Cemetery</h4>
+                                    <span class="portfolio-post-cat">Frisco Area</span>
+                                    <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                                </div>
+                            </div>
+                        </div><!--portfolio item -->
+
+                        <div class=" mix frisco col-md-4 col-sm-6 margin-btm-40 no-padding">
+                            <div class="portfolio-sec">
+                                <div class="portfolio-thumnail">
+                                    <a href="portfolio-single.html">
+                                        <img src="assets/img/sites/friscopark.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>
+                                <div class="portfolio-desc text-center">
+                                    <h4 class="portfolio-post-title">Frisco Historic Park</h4>
+                                    <span class="portfolio-post-cat">Frisco Area</span>
+                                    <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                                </div>
+                            </div>
+                        </div><!--portfolio item -->
+
+                        <div class=" mix frisco col-md-4 col-sm-6 margin-btm-40 no-padding">
+                            <div class="portfolio-sec">
+                                <div class="portfolio-thumnail">
+                                    <a href="portfolio-single.html">
+                                        <img src="assets/img/sites/officersgulch.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>
+                                <div class="portfolio-desc text-center">
+                                    <h4 class="portfolio-post-title">Officer's Gulch</h4>
+                                    <span class="portfolio-post-cat">Copper Mountain Area</span>
+                                    <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                                </div>
+                            </div>
+                        </div><!--portfolio item -->
+
+                        <div class=" mix frisco col-md-4 col-sm-6 margin-btm-40 no-padding">
+                            <div class="portfolio-sec">
+                                <div class="portfolio-thumnail">
+                                    <a href="portfolio-single.html">
+                                        <img src="assets/img/sites/masontown.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>
+                                <div class="portfolio-desc text-center">
+                                    <h4 class="portfolio-post-title">Masontown</h4>
                                     <span class="portfolio-post-cat">Frisco Area</span>
                                     <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
@@ -440,11 +586,11 @@
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="portfolio-single.html">
-                                        <img src="assets/img/work/work-2.jpg" class="img-responsive" alt="">
+                                        <img src="assets/img/sites/montezumaschoolhouse.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>
                                 <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">portfolio item title here</h4>
+                                    <h4 class="portfolio-post-title">Montezuma Schoolhouse</h4>
                                     <span class="portfolio-post-cat">Montezuma Area</span>
                                     <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
@@ -453,15 +599,60 @@
                       
 
                         <!-- silverthorne -->
-                        <div class=" mix html col-md-4 col-sm-6 margin-btm-40 no-padding">
+                        <div class=" mix silverthorne col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="portfolio-single.html">
-                                        <img src="assets/img/work/work-2.jpg" class="img-responsive" alt="">
+                                        <img src="assets/img/sites/slatecreek.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>
                                 <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">portfolio item title here</h4>
+                                    <h4 class="portfolio-post-title">Slate Creek Hall</h4>
+                                    <span class="portfolio-post-cat">Silverthorne Area</span>
+                                    <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                                </div>
+                            </div>
+                        </div><!--portfolio item -->
+
+                        <div class=" mix silverthorne col-md-4 col-sm-6 margin-btm-40 no-padding">
+                            <div class="portfolio-sec">
+                                <div class="portfolio-thumnail">
+                                    <a href="portfolio-single.html">
+                                        <img src="assets/img/sites/slatecreekbridge.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>
+                                <div class="portfolio-desc text-center">
+                                    <h4 class="portfolio-post-title">Slate Creek Bridge</h4>
+                                    <span class="portfolio-post-cat">Silverthorne Area</span>
+                                    <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                                </div>
+                            </div>
+                        </div><!--portfolio item -->
+
+                        <div class=" mix silverthorne col-md-4 col-sm-6 margin-btm-40 no-padding">
+                            <div class="portfolio-sec">
+                                <div class="portfolio-thumnail">
+                                    <a href="portfolio-single.html">
+                                        <img src="assets/img/sites/greenmountain.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>
+                                <div class="portfolio-desc text-center">
+                                    <h4 class="portfolio-post-title">Green Mountain Dam & Reservoir</h4>
+                                    <span class="portfolio-post-cat">Silverthorne Area</span>
+                                    <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                                </div>
+                            </div>
+                        </div><!--portfolio item -->
+
+                        <div class=" mix silverthorne col-md-4 col-sm-6 margin-btm-40 no-padding">
+                            <div class="portfolio-sec">
+                                <div class="portfolio-thumnail">
+                                    <a href="portfolio-single.html">
+                                        <img src="assets/img/sites/silverthornemus.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>
+                                <div class="portfolio-desc text-center">
+                                    <h4 class="portfolio-post-title">Silverthorne Museum</h4>
                                     <span class="portfolio-post-cat">Silverthorne Area</span>
                                     <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
