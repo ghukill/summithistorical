@@ -13,6 +13,8 @@
             </div>
             <div class="navbar-collapse collapse">
 
+
+
                 <ul class="nav navbar-nav navbar-right">
                     <li class="social-nav"><a href="#"><i class="ion-social-facebook"></i></a></li>
                     <li class="social-nav"><a href="#"><i class="ion-social-twitter"></i></a></li>
@@ -20,7 +22,10 @@
                 </ul>                        
 
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="active dropdown">
+
+                    <li><a href="index.php">Home</a></li>
+                    
+                    <li class="dropdown">
                         <a href="#" class="dropdown-toggle js-activated" data-toggle="dropdown">Sites and Resources</a> 
                         <ul class="dropdown-menu">
                             <li><a href="sites.php">Sites</a></li>
@@ -52,9 +57,9 @@
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a href="contact.html" class="dropdown-toggle js-activated" data-toggle="dropdown">Contact</a>
+                        <a href="contact.php" class="dropdown-toggle js-activated" data-toggle="dropdown">Contact</a>
                         <ul class="dropdown-menu">
-                            <li><a href="contact.html">Contact</a></li>                                    
+                            <li><a href="contact.php">Contact</a></li>                                    
                         </ul>
                     </li>
                 </ul>
