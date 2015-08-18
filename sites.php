@@ -45,7 +45,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h2>Sites</h2>
+                    <h2>Summit County Historical sites</h2>
                 </div>
             </div>
 
@@ -76,7 +76,7 @@
                                 <div class="portfolio-desc text-center">
                                     <h4 class="portfolio-post-title">Historic District</h4>
                                     <span class="portfolio-post-cat">Breckenridge Area</span>
-                                    <h4><a href="portfolio-single.html" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                                    <h4><a href="sites/historic_district.php" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
                         </div><!--portfolio item -->
