@@ -155,7 +155,7 @@
                         <div class="space-30"></div>
                         <div class="row">
                             <div class="col-md-3 services-icon">
-                                <i class="ion-laptop"></i>
+                                <i class="ion-earth"></i>
                             </div>
                             <div class="col-md-9 services-text">
                                 <h4 class="heading-mini">sites</h4>
@@ -167,7 +167,7 @@
                         <div class="space-30"></div>
                         <div class="row">
                             <div class="col-md-3 services-icon">
-                                <i class="ion-laptop"></i>
+                                <i class="ion-android-contacts"></i>
                             </div>
                             <div class="col-md-9 services-text">
                                 <h4 class="heading-mini">Tours</h4>
@@ -179,7 +179,7 @@
                         <div class="space-30"></div>
                         <div class="row">
                             <div class="col-md-3 services-icon">
-                                <i class="ion-ios-barcode-outline"></i>
+                                <i class="ion-calendar"></i>
                             </div>
                             <div class="col-md-9 services-text">
                                 <h4 class="heading-mini">Events</h4>
@@ -191,7 +191,7 @@
                         <div class="space-30"></div>
                         <div class="row">
                             <div class="col-md-3 services-icon">
-                                <i class="ion-compose"></i>
+                                <i class="ion-filing"></i>
                             </div>
                             <div class="col-md-9 services-text">
                                 <h4 class="heading-mini">Archives</h4>

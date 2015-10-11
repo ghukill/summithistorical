@@ -18,7 +18,7 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li class="social-nav"><a href="#"><i class="ion-social-facebook"></i></a></li>
                     <li class="social-nav"><a href="#"><i class="ion-social-twitter"></i></a></li>
-                    <li class="social-nav"><a href="#"><i class="ion-social-youtube"></i></a></li>
+                    <!-- <li class="social-nav"><a href="#"><i class="ion-social-youtube"></i></a></li> -->
                 </ul>                        
 
                 <ul class="nav navbar-nav navbar-right">
