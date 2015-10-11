@@ -1,2 +1,5 @@
 /* Local CSS Overrides */
-
+.alert {
+	border-radius: 10px;
+	background-color: #FFFFC8;
+}
