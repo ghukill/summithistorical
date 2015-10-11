@@ -1,18 +1,3 @@
-<?php
-
-$site_array = array(
-
-"historic_district" => "<h1><font face='Arial, Helvetica, sans-serif'>The Breckenridge Historic District</font></h1>
-<p><font face='Arial, Helvetica, sans-serif'><img src='images/3housesbreck.jpg' alt='Breckenridge Historic District home' width='350' height='191' hspace='5' align='right'>A movement for designation of a Breckenridge Historic District began in the late 1970s to coincide and complement Breckenridge's Centennial of incorporation in1880. </font></p>
-<p><font face='Arial, Helvetica, sans-serif'>Working with the Colorado Historical Society, the designation was granted as the Breckenridge Historic District in 1980 for the purpose of historical preservation. </font></p>
-<p><font face='Arial, Helvetica, sans-serif'><img src='images/stjohnchurchbreck.jpg' alt='Breckenridge Historic District church' width='350' height='268' hspace='5' align='left'>The Breckenridge Historic District is an excellent representation of commercial (Main , Ridge &amp; Lincoln) residential (Ridge, French, Harris &amp; High) and religious (three nineteenth century churches) structures of the gold fever era. The facades include architectural examples of the Victorian age in the mining town revived as a resort/ski town. All buildings within the &quot;old town&quot; east of the Blue River from the first settlement in 1859 to the 1942 end of gold dredge period were surveyed, mapped and given designations as to primary historical significance or contributing to the character of the district. Containing 249 structures, these buildings' preservation are insured through strict development and design standards. <img src='images/breckmainst01.jpg' alt='Breckenridge Historic Districe Main Street' width='350' height='263' hspace='5' align='right'>New construction within the District also reflects the historic character of Breckenridge. </font></p>
-<p><font face='Arial, Helvetica, sans-serif'>The geographical setting within the Ten Mile Range of the Colorado Rocky Mountains provides a visually pleasant background for the historical district as the public comes in direct touch with the historic character of Breckenridge. <img src='images/yellowhousebreck.jpg' alt='Breckenridge Historic District home' width='350' height='235' hspace='5' align='left'></font></p>"
-
-);
-
-
-?>
-
 <!DOCTYPE html>
 
 <html>
@@ -62,7 +47,8 @@ $site_array = array(
                 <div class="col-md-12">
                     <?php
 
-                        echo $site_array[$_REQUEST['site']];
+                        // echo $site_array[$_REQUEST['site']];
+                        include ("sites/".$_REQUEST['site'].".php");
 
                     ?>
                 </div>

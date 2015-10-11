@@ -55,12 +55,12 @@
                 <div class="col-md-12">
                     <ul class="portfolio-filters">
                         <li class="filter active" data-filter="all">All</li>
-                        <li class="filter" data-filter="breckenridge">Breckenridge Area</li>
-                        <li class="filter" data-filter="copper_mountain">Copper Mountain Area</li>
                         <li class="filter" data-filter="dillon">Dillon Area</li>
-                        <li class="filter" data-filter="frisco">Frisco Area</li>
                         <li class="filter" data-filter="montezuma">Montezuma Area</li>
-                        <li class="filter" data-filter="silverthorne">Silverthorne Area</li>
+                        <li class="filter" data-filter="breckenridge">Breckenridge Area</li>
+                        <li class="filter" data-filter="frisco">Frisco Area</li>
+                        <!-- <li class="filter" data-filter="copper_mountain">Copper Mountain Area</li>
+                        <li class="filter" data-filter="silverthorne">Silverthorne Area</li> -->
                     </ul>
 
                     <div id="grid">
@@ -69,19 +69,19 @@
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
-                                    <a href="site_details.php?site=historic_district">
+                                    <a href="site_details.php?site=breckenridge_area">
                                         <img src="assets/img/sites/historic_district.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>
                                 <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">Historic District</h4>
+                                    <h4 class="portfolio-post-title">Breckenridge Area</h4>
                                     <span class="portfolio-post-cat">Breckenridge Area</span>
-                                    <h4><a href="site_details.php?site=historic_district" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                                    <h4><a href="site_details.php?site=breckenridge_area" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
-                        <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
+                        <!--<div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="site_details.php?">
@@ -94,7 +94,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -109,7 +109,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -124,7 +124,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -139,7 +139,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -154,7 +154,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -169,7 +169,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -184,7 +184,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -199,7 +199,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -214,7 +214,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -229,7 +229,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -244,7 +244,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -259,7 +259,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -274,7 +274,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -289,7 +289,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -304,7 +304,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -319,7 +319,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -334,7 +334,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -349,7 +349,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -364,7 +364,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -379,7 +379,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         
                         <!-- copper_mountain -->
@@ -396,10 +396,10 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <!-- dillon -->
-                        <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
+                        <!-- <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="site_details.php?">
@@ -412,7 +412,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div> -->
 
                         <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -427,7 +427,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -442,7 +442,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -457,7 +457,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -472,9 +472,9 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
-                        <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
+                        <!-- <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="site_details.php?">
@@ -487,7 +487,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div> -->
 
                         <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -502,7 +502,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <!-- frisco -->
                         <div class=" mix frisco col-md-4 col-sm-6 margin-btm-40 no-padding">
@@ -518,7 +518,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix frisco col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -533,7 +533,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix frisco col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -548,9 +548,9 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
-                        <div class=" mix frisco col-md-4 col-sm-6 margin-btm-40 no-padding">
+                        <!-- <div class=" mix frisco col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="site_details.php?">
@@ -563,7 +563,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div> -->
 
                         <div class=" mix frisco col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -578,7 +578,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
                     
 
                         <!-- montezuma -->
@@ -595,7 +595,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
                       
 
                         <!-- silverthorne -->
@@ -612,7 +612,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix silverthorne col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -627,7 +627,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix silverthorne col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -642,7 +642,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
 
                         <div class=" mix silverthorne col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
@@ -657,7 +657,7 @@
                                     <h4><a href="site_details.php?" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div><!--portfolio item -->
+                        </div>
                    
 
                     </div><!--grid-->
