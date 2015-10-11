@@ -38,11 +38,27 @@
         <!-- load header -->
         <?php include("assets/templates/header.php");?>
 
-        <!-- ################ PAGE CONTENT ################  -->
-
-        
+        <div class="space-70"></div>
 
         <!-- ################ PAGE CONTENT ################  -->
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>Digital Collections</h1>
+
+                    <!-- coming soon-->
+                    <div class="alert">
+                        <h3>Coming Soon!</h3>                        
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- ################ PAGE CONTENT ################  -->
+
+        <div class="space-70"></div>
 
         <!-- load footer -->
         <?php include("assets/templates/footer.php");?>

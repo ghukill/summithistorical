@@ -38,11 +38,37 @@
         <!-- load header -->
         <?php include("assets/templates/header.php");?>
 
+         <div class="space-70"></div>
+
         <!-- ################ PAGE CONTENT ################  -->
 
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>Newsletter</h1>
+                    <p>Beginning in the fall of 2005, the SHS Voices is published in October, February, and June.</p>
+
+                    <p>To read the newsletters on-line, an Adobe Reader is required. If you do not have an Adobe Reader, you may download it for free by clicking here. After downloading Adobe, click on the edition you wish to read.</p>
+
+                    <p>Please note that some of the Newsletters are rather large (6 mb or larger), and due to the need for the Adobe reader, it may take a few minutes to download the newsletter you have selected, please be patient.</p>
+
+                    <p>Over time, we hope to make all previously published editions (begun in 1986) of Voices available on this site.</p>
+
+                    <!--downloads-->
+                    <h3>Downloads</h3>
+                    <ul>
+                        <li><a href="newsletter/Winter_2014.pdf">Winter 2014</a></li>
+                        <li><a href="newsletter/winter_spring_2013.pdf">Winter / Spring 2013</a></li>
+                    </ul>
+
+                </div>
+            </div>
+        </div>
         
 
         <!-- ################ PAGE CONTENT ################  -->
+
+        <div class="space-70"></div>
 
         <!-- load footer -->
         <?php include("assets/templates/footer.php");?>

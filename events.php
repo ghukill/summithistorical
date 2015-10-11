@@ -38,11 +38,23 @@
         <!-- load header -->
         <?php include("assets/templates/header.php");?>
 
+        <div class="space-70"></div>
+
         <!-- ################ PAGE CONTENT ################  -->
 
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>Events</h1>
+                    <p>Check back soon...</p>                   
+                </div>
+            </div>
+        </div>
         
 
         <!-- ################ PAGE CONTENT ################  -->
+
+        <div class="space-70"></div>
 
         <!-- load footer -->
         <?php include("assets/templates/footer.php");?>
