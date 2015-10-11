@@ -40,7 +40,53 @@
 
         <!-- ################ PAGE CONTENT ################  -->
 
-        
+        <div class="space-70"></div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+
+                    <h1>Volunteer</h1>
+
+                    <p>If any of the areas of volunteer work where we need help interest you, please contact our program coordinator by phone at 970-468-2207 (leave message) or email at <a href="mailto:mail@summithistorical.org">mail@summithistorical.org</a>. Please consider doing whatever is of interest and/or convenient for you.</p>
+
+                    <p>Some of the areas where we need help are:</p>
+
+                    <p>For Summer 2015, Summit Historical Society is in need of volunteers for some of our recurring programming; positions include tour guides, outreach, and more! To view available opportunities, click the button next to the corresponding role and you will be taken to our VolunteerSpot sign up page. Prefer not to register online? Please reach out to us at the contact information listed above and we will add you to the schedule.</p>
+
+                    <ul>
+                        <li>Schoolhouse Museum Docent: <a href="http://vols.pt/ygTG81" target="_blank"><img class="img_margin" src="http://www.volunteerspot.com/imgs/icons/signup-btn.png" alt="Click to View Volunteer Opportunities on VolunteerSpot"></a></li>
+                        <li>Farmer's Market Setup and Outreach: <a href="http://vols.pt/zDBWqz" target="_blank"><img class="img_margin" src="http://www.volunteerspot.com/imgs/icons/signup-btn.png" alt="Click to View Volunteer Opportunities on VolunteerSpot"></a></li>
+                        <li>Pastry & the Past Kitchen Helpers: <a href="http://vols.pt/vg43V8" target="_blank"><img class="img_margin" src="http://www.volunteerspot.com/imgs/icons/signup-btn.png" alt="Click to View Volunteer Opportunities on VolunteerSpot"></a></li>
+                        <li>Dillon Boat Tour Guide: <a href="http://vols.pt/rPYgFG" target="_blank"><img class="img_margin" src="http://www.volunteerspot.com/imgs/icons/signup-btn.png" alt="Click to View Volunteer Opportunities on VolunteerSpot"></a></li>
+                    </ul>
+
+                    <p>Other Volunteering Opportunities (please call or email):</p>
+
+                    <ul>
+                        <li>Special events and Society functions</li>
+                        <li>Society newsletter and publicity</li>
+                        <li>Fund raising, finance, and endowment</li>
+                        <li>Educational programs</li>
+                        <li>Site maintenance and gardening</li>
+                        <li>Archive and collections management</li>
+                        <li>SHS Book and Adventure Club</li>
+                        <li>Construction and carpentry</li>
+                        <li>Painting and wallpapering</li>
+                        <li>Driving, delivery, and providing pick-up truck</li>
+                        <li>Computer skills and web page design and maintenance</li>
+                        <li>Society mailings</li>
+                        <li>Cooking and baking</li>
+                        <li>Photography, artwork, and audio-visual</li>
+                        <li>Grant and proposal writing</li>
+                        <li>Other needs as they arise</li>
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="space-70"></div>        
 
         <!-- ################ PAGE CONTENT ################  -->
 

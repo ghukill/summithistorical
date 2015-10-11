@@ -46,6 +46,8 @@
             <div class="row">
                 <div class="col-md-12">
 
+                <h1>About Us</h1>
+
                 <p>The Summit Historical Society (SHS) was incorporated on October 25, 1966, as a private, nonprofit, tax-exempt State of Colorado 501(c) (3) corporation. As such, contributions are tax deductible as permitted by section 170 IRS Code.</p>
 
                 <h3>Mission & Objectives</h3>
