@@ -157,6 +157,38 @@
                             </div>
                         </div>
 
+                        <!-- ################### -->
+
+                        <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
+                            <div class="portfolio-sec">
+                                <div class="portfolio-thumnail">
+                                    <a href="site_details.php?site=dillon_dam">
+                                        <img src="assets/img/sites/dillondam.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>
+                                <div class="portfolio-desc text-center">
+                                    <h4 class="portfolio-post-title">Dillon Dam Glory Hole</h4>
+                                    <span class="portfolio-post-cat">Dillon Area</span>
+                                    <h4><a href="site_details.php?site=dillon_dam" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
+                            <div class="portfolio-sec">
+                                <div class="portfolio-thumnail">
+                                    <a href="site_details.php?site=dillon_cemetery">
+                                        <img src="assets/img/sites/dilloncemetery.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>
+                                <div class="portfolio-desc text-center">
+                                    <h4 class="portfolio-post-title">Dillon Cemetery</h4>
+                                    <span class="portfolio-post-cat">Dillon Area</span>
+                                    <h4><a href="site_details.php?site=dillon_cemetery" class="btn theme-btn-default btn-lg">More detail</a></h4>
+                                </div>
+                            </div>
+                        </div>
+
                         <!-- frisco -->
                         <div class=" mix frisco col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">

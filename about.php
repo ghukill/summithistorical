@@ -64,7 +64,7 @@
                     <li>Own, equip, maintain, and operate public museums</li>                    
                 </ul>
 
-                <p>Please click here for more detailed description of our Goals and Objectives.</p>
+                <p>Please <a href="goals.php">click here for more detailed description of our Goals and Objectives</a>.</p>
 
                 <h3>Organization</h3>
 
@@ -76,7 +76,7 @@
                     <li>Authorizations by the Board of Directors of the Society.</li>                    
                 </ul>
 
-                <p>Please click here for more detailed description of our Board of Directors and its responsibilities and here for our organization chart.</p>
+                <p>Please <a href="board.php">click here for more detailed description of our Board of Directors</a> and its responsibilities and here for our organization chart.</p>
                 
                 <p>Paid and volunteer staff carry out the Society's daily activities and programs. All volunteers serve without compensation. Three members constitute a quorum for a business meeting of the Society.</p>
 
@@ -88,7 +88,7 @@
 
                 <p>Through exhibits, publications, lectures, and similar programs, the SHS educates residents and visitors alike about the area's heritage and traditional way of life. In addition to refurbishing, developing, and maintaining the historical sites entrusted to its care, the Society conducts many regularly scheduled tours year-round and special tours upon request. Recent programs have, for instance, benefited elementary school children, senior citizen centers, travel agents, Boy and Girl Scout troops, Elderhostel groups, tourists from around the world, and numerous other local and visiting organizations.</p>
 
-                <p>Please <a href="sites.php">click here to learn about our points of historical interest in Summit County and available SHS tours</a>. Selection of any of the menu items will provide background information and photographs of the sites selected.</p>
+                <p>Please <a href="sites.php">click here to learn about our <a href="sites.php">points of historical interest</a> in Summit County and <a href="tours.php">available SHS tours</a>. Selection of any of the menu items will provide background information and photographs of the sites selected.</p>
 
                 <p>The Society also publishes books, conducts wildflower and historical hikes, and responds to information requests from members, present and past residents, and historical researchers.</p>
 
@@ -118,6 +118,8 @@
         </div>
 
         <!-- ################ PAGE CONTENT ################  -->
+
+        <div class="space-70"></div>
 
         <!-- load footer -->
         <?php include("assets/templates/footer.php");?>

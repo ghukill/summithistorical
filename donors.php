@@ -38,11 +38,93 @@
         <!-- load header -->
         <?php include("assets/templates/header.php");?>
 
-        <!-- ################ PAGE CONTENT ################  -->
-
-        
+        <div class="space-70"></div>
 
         <!-- ################ PAGE CONTENT ################  -->
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+
+                <h1>Corporate and Individual Donor Honor Role</h1>
+
+                <p>The Society wishes to thank those listed below who have gone above and beyond in their support of Society projects.  The Board appreciates their support and extends a most hearty thanks.</p>
+
+                <h3>Corporate Donors:</h3>
+                <ul>
+                <li>Arapahoe Cafe and Pub Down Under - Arapahoe Cafe</li>
+                <li>BonnieQ BBQ and RoadHouse - BonnieQ</li>
+                <li>Omni Computer Repair</li>
+                <li>Red Mountain Grill</li>
+                </ul>
+
+
+                <h3>Mine Owner - $1000 and over:</h3>
+                <ul>
+                <li>The Summit Foundation</li>
+                <li>Dr. Sandra (Sandie) Mather</li>
+                </ul>
+
+                <h3>Gold Miner - $500-$999:</h3>
+                <ul>
+                <li>Sherman Gregory</li>
+                <li>JoAnn Mulcahy</li>
+                <li>Rick and Linda Hague</li>
+                <li>Ed and Patty Wahtera</li>
+                <li>Cheryl Tatro</li>
+                </ul>
+
+                <h3>Silver Miner - $$250-$499:</h3>
+                <ul>
+                <li>Ellie Watson</li>
+                <li>Ken and Deb Torrington</li>
+                <li>Craig and Angel Fox</li>
+                <li>John Ebright</li>
+                </ul>
+
+                <h3>Merchant - $100-$249:</h3>
+                <ul>
+                <li>Ken and G.M. Nicholson</li>
+                <li>Polly Koch and Stephan Horlak</li>
+                <li>Allen and Karen Spelman</li>
+                <li>Phyllis Palmer</li>
+                <li>Ted and Robbin Beaty</li>
+                <li>Dr. and Mrs. Edward B. Crane</li>
+                <li>Bruce and Sally Queen</li>
+                <li>Bill and Jeanne Fountain</li>
+                <li>James and Rosanne Shaw</li>
+                <li>Tom and Emily Shirley</li>
+                <li>Ray and Sharon Smith</li>
+                <li>Linda M and Joseph C. Woodford</li>
+                <li>Dr. John Roehm</li>
+                <li>Rich and Judy Skovlin</li>
+                <li>Bonnie Guthrie</li>
+                </ul>
+
+                <h3>Prospector - $50-$99:</h3>
+                <ul>
+                <li>Janet and Tim Nielson</li>
+                </ul>
+
+                <h3>Historian - $25-$49:</h3>
+                <ul>
+                <li>"Your name here"</li>
+                </ul>
+
+                <h3>In Kind Donor:</h3>
+                <ul>
+                <li>"Your name here"</li>
+                </ul>
+
+
+
+                </div>
+            </div>
+        </div>
+
+        <!-- ################ PAGE CONTENT ################  -->
+
+        <div class="space-70"></div>
 
         <!-- load footer -->
         <?php include("assets/templates/footer.php");?>

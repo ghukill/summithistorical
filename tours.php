@@ -38,11 +38,134 @@
         <!-- load header -->
         <?php include("assets/templates/header.php");?>
 
+        <div class="space-70"></div>
+
         <!-- ################ PAGE CONTENT ################  -->
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+
+                    <h1>Tours</h1>
+
+                    <h2>Spend a day with the Summit Historical Society</h2>
+
+                    <p>Gold Mines! Walking Tour! Historical Museums! Rotary Snowplow and Railroad Museum! Dillon Cemetery!</p>
+
+                    <p>For more information on tours call:
+                        <ul>
+                            <li>The Summit Historical Society at (970) 468-2207</li>
+                            <li>The Breckenridge Historical Alliance at (970) 453-9767</li>
+                        </ul>
+                    </p>
+
+                    <p>The Summit Historical Society offers many ways to learn about the exciting history of Summit County, Colorado. Membership offers several bonuses also: publications, galas, and the opportunity to volunteer and help the society with fun projects, be a tour guide, etc.</p>
+
+                    <hr>
+                    
+                    <!-- Dillon Schoolhouse -->
+                    <div class="row">
+                        <div class="col-md-8">
+                            <h3>Dillon Schoolhouse Museum</h3>
+
+                            <p><strong>403 La Bonte Street in Dillon</strong></p>
+
+                            <p>The well-equipped 1883 Dillon Schoolhouse was moved up from the old town of Dillon when the dam was built in 1961. Also visit the 1885 Lula Myers Ranch House and Honeymoon Cabin.</p>
+                            
+                            <p><strong>Summer Schedule:</strong><br>
+                            Open Tuesday thru Friday - Early June, through late August.  Hours are 10:30 am to 2:30 pm. Call for exact dates (970) 468-2207.</p>
+
+                            <p><strong>Winter Schedule:</strong><br>
+                            The Dillon Schoolhouse is currently only open by appointment and tours can be arranged by calling (970) 468-2207.</p>
+
+                            <p>Admission is free, but donations are accepted.</p>
+
+                            <p>Special tours can be arranged by calling (970) 468-2207.</p>
+                        </div> 
+
+                        <!--image-->
+                        <div class="col-md-4">
+                            <img src="sites/images/dillonsh13.jpg"/>
+                        </div>
+                    </div>
+
+                    <hr>
+
+                    
+                    <!-- Mont Schoolhouse -->
+                    <div class="row">
+                        <div class="col-md-8">
+
+                            <h3>Montezuma Schoolhouse</h3>
+
+                            <p><strong>Schedule:</strong><br>
+                            The Montezuma Schoolhouse is currently only open by appointment and tours can be arranged by calling 970-468-2207.</p>
+
+                            <p>Visit the 1884 one-room schoolhouse located at 10,400 feet in the heart of the 1865 silver-rich mining town of Montezuma!</p>
+
+                        </div> 
+
+                        <!--image-->
+                        <div class="col-md-4">
+                            <img src="sites/images/montez1.jpg"/>
+                        </div>
+
+                    </div>
+
+                    <hr>
+                    
+                    <!-- Dillon Cemetery -->
+                    <div class="row">
+                        <div class="col-md-8">
+                            <h3>Dillon Cemetery</h3>
+
+                            <p>The original Dillon Cemetery was established in 1885 and was the only graveyard patented under federal law, its patent signed June 30, 1901 by President McKinley. During the construction of the Dillon Dam in 1962 the original cemetery was moved from its first location to its present "home".</p>
+                            
+                            <p>Interred here are many who were important to the development of the north end of Summit County: members of the families of four of the eight drivers of the High Line Stage Coach Route from Georgetown to Leadville, which operated from 1879 until the arrival of the railroad in 1882; administrative and operating personnel of the narrow-gauge railroads; miners; timbermen and other sawmill workers; blacksmiths; tradesmen, hotel keepers and livery operators; homesteaders and ranchers; road builders, and county officials. One "colored," Dillon town marshal Steve Edwards, was moved, at his death said to be the oldest citizen in the county.</p>
+
+                            <p><strong>Schedule:</strong><br>
+                            Tours can be arranged by calling 970-468-2207.</p>
+                        </div>
+
+                        <!--image-->
+                        <div class="col-md-4">
+                            <img src="sites/images/dilloncemetery.jpg"/>
+                        </div>
+
+                    </div>
+
+                    <hr>
+
+                    <!-- Dillon Dam -->
+                    <div class="row">
+                        <div class="col-md-8">
+
+                            <h3>Dillon, Denver, and the Dam </h3>
+
+                            <p><strong>Summer schedule:</strong><br>
+                            Thursdays, July 18th through August 29th. Tours start at 10:00 a.m.  Meet at the 'Dillon Schoolhouse Museum' at 403 La Bonte St. in Dillon, CO.</p>
+
+                            <p>Spend the morning with Sandra Mather the author of Dillon, Denver, and the Dam, a Summit Historical Society publication. Learn about the building of Dillon Dam and the creation of "new" Dillon. Wear walking shoes and bring rain gear if necessary. There is a fee for this tour.</p>
+
+                        </div>
+
+                        <!--image-->
+                        <div class="col-md-4">
+                            <img src="sites/images/dillondam.jpg"/>
+                        </div>
+                        
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
 
         
 
         <!-- ################ PAGE CONTENT ################  -->
+
+        <div class="space-70"></div>
 
         <!-- load footer -->
         <?php include("assets/templates/footer.php");?>
