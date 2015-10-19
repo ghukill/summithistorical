@@ -50,7 +50,7 @@
                     <!-- coming soon-->
                     <div class="alert">
                         <h3>Coming Soon!</h3>
-                        <p>Old Dillon Schoolhouse Archives, and the Mather Archives (Sandy Mathers) in Breckenridge.</p>
+                        <p>Old Dillon Schoolhouse Archives, and the Mather Archives (Sandie Mather) in Breckenridge.</p>
                     </div>
 
                     <!-- content -->

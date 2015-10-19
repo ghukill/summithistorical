@@ -9,7 +9,7 @@
 
 		<p>Turn-of-the-century artifacts fill the museum. In the one-room classroom are McGuffy desks, Heath Readers (with hand-crocheted bookmarks), slates and chalk, individual learning stations (rolls), Centennial flag, flip chart, chemistry set, black constellation globe, kerosene slide projector and glass slides, phonograph, piano, organ and sand table. Other artifacts in the classroom and adjacent "store" include typewriters, clothing and jewelry, baseball paraphernalia, grinder, post office boxes, buttons, beaver traps, snowshoes, fire apparatus, blacksmith tools, assay scales, ballot box, beer bottles, cigar mold and tobacco cutter, saddles and butcher block.</p>
 
-		<p>The annex contains the historical society's archives: newspapers, books, brochures, maps, photographs, governmental documents, clothing, correspondence and more. It is the only archival depository in the county.</p>
+		<p>It is one of two archival facilities in the county housing SHS materials, including: newspapers, books, brochures, maps, photographs, governmental documents, clothing, correspondence and more. It is the only archival depository in the county.</p>
 
 		<p><strong>Dillon Schoolhouse Directions:</strong> The Dillon Schoolhouse is located at 403 La Bonte Street, Dillon.</p>
 	</div>

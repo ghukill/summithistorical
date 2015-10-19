@@ -120,7 +120,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center wow animated fadeInUp">
-                    <h4>The Summit Historical Society is dedicated to the discovery, preservation, interpretation, and exhibition of the rich heritage and history of Summit County. We provide tours of historic buildings and mine sites, collections of artifacts, photographs, and documents, and public education programs. Whether your interests lie in our gold rush days, skiing history, or our Native American heritage, come visit us at the Summit. This website also intends to bring together and keep informed all members and friends of the Summit Historical Society. Here you will find here such things as historical sites, Society events, tours, archives and research, Society newsletters, and books for sale. Also information on volunteering with the Society and membership.</h4>
+                    <h4>The Summit Historical Society is dedicated to the discovery, preservation, interpretation, and exhibition of the rich heritage and history of Summit County. We provide tours of historic buildings and mine sites, maintain a collection of artifacts, photographs, and documents, and conduct public education programs. Whether your interests lie in our gold rush days, skiing history, or our Native American heritage, come visit us at the Summit. This website also intends to bring together and keep informed all members and friends of the Summit Historical Society. Here you will find information about historic sites.  There is also information about volunteer opportunities. </h4>
                 </div>
 
                 <div class="space-30"></div>

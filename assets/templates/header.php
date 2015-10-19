@@ -16,8 +16,8 @@
 
 
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="social-nav"><a href="#"><i class="ion-social-facebook"></i></a></li>
-                    <li class="social-nav"><a href="#"><i class="ion-social-twitter"></i></a></li>
+                    <li class="social-nav"><a href="https://www.facebook.com/summithistorical"><i class="ion-social-facebook"></i></a></li>
+                    <li class="social-nav"><a href="https://twitter.com/summithistory"><i class="ion-social-twitter"></i></a></li>
                     <!-- <li class="social-nav"><a href="#"><i class="ion-social-youtube"></i></a></li> -->
                 </ul>                        
 
@@ -47,7 +47,7 @@
                         <ul class="dropdown-menu">
                             <li><a href="membership.php">Membership</a></li>                              
                             <li><a href="volunteer.php">Volunteer</a></li>
-                            <li><a href="donors.php">Donors</a></li>
+                            <!-- <li><a href="donors.php">Donors</a></li> -->
                         </ul>
                     </li>
                     <li><a href="contact.php">Contact</a></li>

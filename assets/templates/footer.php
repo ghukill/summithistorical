@@ -100,8 +100,8 @@
                 <div class="footer-col">
                     <h3>Follow us</h3>
                     <ul class=" list-inline social-btn">
-                        <li><a href="#"><i class="ion-social-facebook" data-toggle="tooltip" data-placement="top" title="" data-original-title="Like On Facebook"></i></a></li>
-                        <li><a href="#"><i class="ion-social-twitter" data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow On twitter"></i></a></li>
+                        <li><a href="https://www.facebook.com/summithistorical"><i class="ion-social-facebook" data-toggle="tooltip" data-placement="top" title="" data-original-title="Like On Facebook"></i></a></li>
+                        <li><a href="https://twitter.com/summithistory"><i class="ion-social-twitter" data-toggle="tooltip" data-placement="top" title="" data-original-title="Follow On twitter"></i></a></li>
                     </ul>
                 </div>
                 
