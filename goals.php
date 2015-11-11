@@ -51,8 +51,8 @@
                     <p>The Summit Historical Society has adopted the following as its Goals and Objectives:</p>
 
                     <ul>
-                        <li>Develop the Society into an organization which is respected and revered on a national level for the quality and integrity of its work</li>
-                        <li>Build the Society into a primary resource for preservation and con-servation services for Summit County, the State of Colorado, and the Western United States</li>
+                        <li>Develop the Society into an organization that is respected and revered on a national level for the quality and integrity of its work</li>
+                        <li>Build the Society into a primary resource for preservation and conservation services for Summit County, the State of Colorado, and the Western United States</li>
                         <li>Expand and enhance the Society's Board of Directors to include key representatives of important community stakeholders such as city/county government, education, development, and commercial organizations</li>
                         <li>Establish key partnerships with prime county stakeholders to augment Society funding, facilities, staffing, and similar resources</li>
                         <li>Develop and implement a regular program of county/community communication to interpret, explain, promote, and publicize Society programs and activities and to solicit community involvement</li>

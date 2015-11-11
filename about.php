@@ -76,9 +76,9 @@
                     <li>Authorizations by the Board of Directors of the Society.</li>                    
                 </ul>
 
-                <p>Please <a href="board.php">click here for more detailed description of our Board of Directors</a> and its responsibilities and here for our organization chart.</p>
+                <!-- <p>Please <a href="board.php">click here for more detailed description of our Board of Directors</a> and its responsibilities and here for our organization chart.</p> -->
                 
-                <p>Paid and volunteer staff carry out the Society's daily activities and programs. All volunteers serve without compensation. Three members constitute a quorum for a business meeting of the Society.</p>
+                <!-- <p>Paid and volunteer staff carry out the Society's daily activities and programs. All volunteers serve without compensation. Three members constitute a quorum for a business meeting of the Society.</p> -->
 
                 <p>Please <a href="membership.php">click here to visit our membership site for more information on membership and how to join the Society</a>.</p>
 

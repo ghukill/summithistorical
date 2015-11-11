@@ -153,53 +153,47 @@
                             The Summit Historical Society (SHS) was incorporated on October 25, 1966, as a private, nonprofit, tax-exempt State of Colorado 501(c) (3) corporation. As such, contributions are tax deductible as permitted by section 170 IRS Code.
                         </p>
                         <div class="space-30"></div>
-                        <div class="row">
-                            <div class="col-md-3 services-icon">
-                                <i class="ion-earth"></i>
-                            </div>
-                            <div class="col-md-9 services-text">
-                                <h4 class="heading-mini">sites</h4>
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut ipsum mauris. Fusce condimentum mollis eros vitae facilisis. 
-                                </p>
-                            </div>
-                        </div><!--services list-->
+                        <a href="sites.php">
+                            <div class="row">
+                                <div class="col-md-3 services-icon">
+                                    <i class="ion-earth"></i>
+                                </div>
+                                <div class="col-md-9 services-text">
+                                    <h4 class="heading-mini">sites</h4>
+                                    <p>
+                                        Learn more about sites in Summit County from the Summit Historical Society.
+                                    </p>
+                                </div>
+                            </div><!--services list-->
+                        </a>
                         <div class="space-30"></div>
-                        <div class="row">
-                            <div class="col-md-3 services-icon">
-                                <i class="ion-android-contacts"></i>
-                            </div>
-                            <div class="col-md-9 services-text">
-                                <h4 class="heading-mini">Tours</h4>
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut ipsum mauris. Fusce condimentum mollis eros vitae facilisis. 
-                                </p>
-                            </div>
-                        </div><!--services list-->
+                        <a href="tours.php">
+                            <div class="row">
+                                <div class="col-md-3 services-icon">
+                                    <i class="ion-android-contacts"></i>
+                                </div>
+                                <div class="col-md-9 services-text">
+                                    <h4 class="heading-mini">Tours</h4>
+                                    <p>
+                                        Gold Mines! Walking Tour! Historical Museums! Rotary Snowplow and Railroad Museum! Dillon Cemetery!  Click to learn more.
+                                    </p>
+                                </div>
+                            </div><!--services list-->
+                        </a>
                         <div class="space-30"></div>
-                        <div class="row">
-                            <div class="col-md-3 services-icon">
-                                <i class="ion-calendar"></i>
-                            </div>
-                            <div class="col-md-9 services-text">
-                                <h4 class="heading-mini">Events</h4>
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut ipsum mauris. Fusce condimentum mollis eros vitae facilisis. 
-                                </p>
-                            </div>
-                        </div><!--services list-->
-                        <div class="space-30"></div>
-                        <div class="row">
-                            <div class="col-md-3 services-icon">
-                                <i class="ion-filing"></i>
-                            </div>
-                            <div class="col-md-9 services-text">
-                                <h4 class="heading-mini">Archives</h4>
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut ipsum mauris. Fusce condimentum mollis eros vitae facilisis. 
-                                </p>
-                            </div>
-                        </div><!--services list-->
+                        <a href="archives.php">
+                            <div class="row">
+                                <div class="col-md-3 services-icon">
+                                    <i class="ion-filing"></i>
+                                </div>
+                                <div class="col-md-9 services-text">
+                                    <h4 class="heading-mini">Archives</h4>
+                                    <p>
+                                        Learn more about Summit Historical Society's large number of archival materials and artifacts.
+                                    </p>
+                                </div>
+                            </div><!--services list-->
+                        </a>
 
 
                     </div>

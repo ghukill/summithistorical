@@ -57,8 +57,8 @@
                         <li class="filter active" data-filter="all">All</li>
                         <li class="filter" data-filter="dillon">Dillon Area</li>
                         <li class="filter" data-filter="montezuma">Montezuma Area</li>
-                        <li class="filter" data-filter="breckenridge">Breckenridge Area</li>
-                        <li class="filter" data-filter="frisco">Frisco Area</li>
+                        <!-- <li class="filter" data-filter="breckenridge">Breckenridge Area</li> -->
+                        <!-- <li class="filter" data-filter="frisco">Frisco Area</li> -->
                         <!-- <li class="filter" data-filter="copper_mountain">Copper Mountain Area</li>
                         <li class="filter" data-filter="silverthorne">Silverthorne Area</li> -->
                     </ul>
@@ -105,7 +105,7 @@
                                     </a>
                                 </div>
                                 <div class="portfolio-desc text-center">
-                                    <h4 class="portfolio-post-title">Lula Myers Ranch House</h4>
+                                    <h4 class="portfolio-post-title">Lula Myers Cabin</h4>
                                     <span class="portfolio-post-cat">Dillon Area</span>
                                     <h4><a href="site_details.php?site=dillon_lula" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
@@ -159,7 +159,7 @@
 
                         <!-- ################### -->
 
-                        <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
+                        <!-- <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="site_details.php?site=dillon_dam">
@@ -172,9 +172,9 @@
                                     <h4><a href="site_details.php?site=dillon_dam" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
-                        <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
+                        <!-- <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="site_details.php?site=dillon_cemetery">
@@ -187,10 +187,10 @@
                                     <h4><a href="site_details.php?site=dillon_cemetery" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- frisco -->
-                        <div class=" mix frisco col-md-4 col-sm-6 margin-btm-40 no-padding">
+                        <!-- <div class=" mix frisco col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="site_details.php?site=frisco_area">
@@ -203,7 +203,7 @@
                                     <h4><a href="site_details.php?site=frisco_area" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- montezuma -->
                         <div class=" mix montezuma col-md-4 col-sm-6 margin-btm-40 no-padding">

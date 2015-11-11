@@ -44,7 +44,7 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
+                <!-- <div class="col-md-12">
 
                     <h1>Board and Management</h1>
 
@@ -116,13 +116,9 @@
 
                     <p>Reports to the Executive Committee to recruit and train volunteers, to manage, coordinate, and schedule all volunteer and tour matters, and to create, manage, and coordinate all Society programs and events.</p>
 
-                    <!-- The SHS Program Coordinator position is currently vacant.  -->
-                    
                     <p><strong>Archive Management</strong></p>
 
                     <p>Works with the Executive Director to organize, maintain, secure, preserve, and update the Society's archives</p>
-
-                    <!-- The SHS Archive Management position is currently vacant. -->
 
                     <p><strong>Communications</strong></p>
 
@@ -135,8 +131,6 @@
                     <p><strong>Site Management</strong></p>
 
                     <p>Manages all historic sites under Society responsibility including all maintenance and preservation work. Assists the Executive Director in creating an annual plan for site maintenance including estimated costs. Publishes the plan to encourage and facilitate the donation of funds or in-kind services toward its realization and to increase the Society's volunteer base. Position can be held by a Commissioner or a general member.</p>
-
-                    <!-- The SHS Director - Site Management position is currently vacant. -->
 
                     <p><strong>Corresponding Secretary</strong></p>
 
@@ -155,7 +149,7 @@
                     </ul>
 
 
-                </div>
+                </div> -->
             </div>
         </div>
 
