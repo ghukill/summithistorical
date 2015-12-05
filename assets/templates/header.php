@@ -31,6 +31,7 @@
                             <li><a href="sites.php">Sites</a></li>
                             <li><a href="tours.php">Tours</a></li>
                             <li><a href="archives.php">Archives</a></li>
+                            <li><a href="books.php">Books</a></li>
                             <li><a href="digitalcollections.php">Digital Collections (coming soon)</a></li>
                         </ul>
                     </li>
