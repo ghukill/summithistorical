@@ -3,15 +3,15 @@
 	<!--text-->
 	<div class="col-md-8">
 		<h1><font face='Arial, Helvetica, sans-serif'>Dillon Schoolhouse</font></h1>
-		<p>When you think of movable schools, you probably think of modular classrooms. Well, think bigger, much bigger. In 1962, this L-shaped schoolhouse was separated into two structures, loaded onto flatbed trucks and moved from Dillon #3, now at the bottom of Lake Dillon.</p>
+		<p>When you think of movable schools, you probably think of modular classrooms.  Well, think bigger—much bigger.  In 1962, workers separated this L-shaped schoolhouse into two pieces, loaded them onto flatbed trucks and moved both from Dillon #3, now at the bottom of Lake Dillon, to LaBonte Street in Dillon.</p>
 
-		<p>Built in 1883 as a school, this frame building with original belfry and bell has undergone changes in use - originally as a school, in 1910 as a church and in 1972 as a museum - as well as in location. The railroad had arrived in Dillon #3 months before the school was constructed, so it was built of modern materials such as four-by-four casement windows and a pressed-tin ceiling. It sported a raised platform with curtain for programs. The outside walls were clapboarded and the roof covered with split-shake shingles.</p>
+		<p>Built in 1883, this frame schoolhouse, with original belfry and bell, underwent several changes in use—first becoming a church in 1910 and then a museum in 1972. The railroad, which arrived in Dillon #3 prior to the school’s construction, brought “modern” materials such as four-by-four casement windows and pressed tin for the ceiling.  A platform in front with curtain enhanced recitations and presentations given by the students.</p>
 
-		<p>Turn-of-the-century artifacts fill the museum. In the one-room classroom are McGuffy desks, Heath Readers (with hand-crocheted bookmarks), slates and chalk, individual learning stations (rolls), Centennial flag, flip chart, black constellation globe, kerosene slide projector and glass slides, phonograph, piano, organ and sand table. Other artifacts in the classroom and adjacent "store" include clothing and jewelry, coffee grinder, post office boxes, buttons, beaver traps, snowshoes, blacksmith tools, assay scales, ballot box, cigar mold and tobacco cutter, saddles and butcher block.</p>
+		<p>The schoolroom looks as it might have in 1892.  Artifacts include McGuffy desks, Heath readers with hand-crocheted bookmarks, slates and chalk, individual learning stations, 1892 flag, Centennial flag, black celestial globe, kerosene slide projector with glass slides, and sand table.  Many other items of historical interest fill the country store room adjacent to the schoolroom, such as blacksmith tools, assay scales, cigar mold and tobacco cutter, and coffee grinder.</p>
 
-		<p>It is one of two archival facilities in the county housing Historical Society materials, including: newspapers, books, brochures, maps, photographs, governmental documents, clothing, correspondence and more.</p>
+		<p>The annex to the Schoolhouse Museum houses the Rutledge archives, one of two archive facilities supported by the Historical Society.</p>
 
-		<p><strong>Dillon Schoolhouse Directions:</strong> The Dillon Schoolhouse is located at 403 La Bonte Street, Dillon.</p>
+		<p><strong>Directions:</strong> You will find the Schoolhouse Museum and Rutledge Archive Room at 403 LaBonte Street in Dillon.</p>
 	</div>
 	
 	<!--images-->

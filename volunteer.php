@@ -48,7 +48,7 @@
 
                     <h1>Volunteer</h1>
 
-                    <p>If any of the areas of volunteer work where we need help interest you, please contact our program coordinator by phone at 970-468-2207 (leave message) or email at <a href="mailto:mail@summithistorical.org">mail@summithistorical.org</a>. Please consider doing whatever is of interest and/or convenient for you.</p>
+                    <p>The Society welcomes volunteers.  We exist because of our volunteers—men, women, and children.  We depend heavily on them for a variety of tasks.  We need help with special events, publicity, fund-raising, maintenance and upkeep on our sites, archive and collection management, grant writing, staffing the SHS table at the Dillon Farmer’s Market on Fridays, leading boat tours on Lake Dillon, guiding visitors through the Schoolhouse Museum, the Myers Cabin, and Honeymoon Cabin, and developing exhibits for various venues.  If you can give of you time and talents, please call the SHS office at 970-468-2207.</p>
 
                 </div>
             </div>

@@ -46,13 +46,9 @@
             <div class="row">
                 <div class="col-md-12">
                     <h1>Newsletter</h1>
-                    <p>The Summit Historical Society publishes its newsletter, Voices, three times per year.</p>
+                    <p>The Summit Historical Society publishes its newsletter, Voices, three times each year.  Reading the newsletter requires an Adobe Reader.  You can download it for free by clicking here.  After downloading Adobe, click on the edition you wish to read.</p>
 
-                    <p>To read the newsletters, Adobe Reader is required. If you do not have an Adobe Reader, you can download it for free by clicking here. After downloading Adobe, click on the edition you wish to read.</p>
-
-                    <p>Please note that some of the Newsletters are rather large (6 mb or larger).  Once you have selected a newsletter, please be patient while it downloads.</p>
-
-                    <p>We hope to make all previously published editions (begun in 1986) of Voices available on this site.</p>
+                    <p>Please note that some of the newsletters are rather large (6 mb or more).  Once you have selected a newsletter, please be patient while it downloads.</p>
 
                     <!--downloads-->
                     <h3>Downloads</h3>

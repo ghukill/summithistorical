@@ -66,7 +66,7 @@
                     <div id="grid">
 
                         <!-- breckenridge -->
-                        <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
+                        <!-- <div class=" mix breckenridge col-md-4 col-sm-6 margin-btm-40 no-padding">
                             <div class="portfolio-sec">
                                 <div class="portfolio-thumnail">
                                     <a href="site_details.php?site=breckenridge_area">
@@ -79,7 +79,7 @@
                                     <h4><a href="site_details.php?site=breckenridge_area" class="btn theme-btn-default btn-lg">More detail</a></h4>
                                 </div>
                             </div>
-                        </div>                        
+                        </div>   -->                      
 
                         <!-- dillon -->
                         <div class=" mix dillon col-md-4 col-sm-6 margin-btm-40 no-padding">

@@ -48,9 +48,7 @@
 
                     <h1>Tours</h1>
 
-                    <p>Spend the day with the Summit Historical Society.  Call the society at 970-428-2207.</p>
-
-                    <p>The SHS offers many ways to learn about the exciting history of Summit County, Colorado. Membership offers several bonuses also: publications, galas, and the opportunity to volunteer and help the society with fun projects, be a tour guide, etc.</p>
+                    <p>Spend the day with the Summit Historical Society.  Learn about the fascinating, unique history of Summit County.</p>
 
                     <hr>
                     
@@ -59,21 +57,19 @@
                         <div class="col-md-8">
                             <h3>Dillon Schoolhouse Museum</h3>
 
-                            <p>Visit the Dillon Schoolhouse Museum, Myers Cabin, Honeymoon Cabin and learn about life in early Summit County.</p>
+                            <p>Visit the Schoolhouse Museum, Myers Cabin, and Honeymoon Cabin and learn about life in the late 1800s in Summit County.  You will find the museum at 403 LaBonte Street in Dillon.</p>
 
-                            <p><strong>403 La Bonte Street in Dillon</strong></p>
+                            <p><strong>Summer Schedule</strong></p>
 
-                            <p>The well-equipped 1883 Dillon Schoolhouse was moved up from the old town of Dillon when the dam was built in 1961. Also visit the 1885 Lula Myers Ranch House and Honeymoon Cabin.</p>
-                            
-                            <p><strong>Summer Schedule:</strong><br>
-                            Open Tuesday thru Friday - Early June, through late August.  Hours are 10:30 am to 2:30 pm. Call for exact dates (970) 468-2207.</p>
+                            <p>The Schoolhouse Museum is open from late June through late August Tuesday through Friday from 11:00 until 3:00.  Check this website for exact dates or call 970-468-2207.</p>
 
-                            <p><strong>Winter Schedule:</strong><br>
-                            The Dillon Schoolhouse is currently only open by appointment and tours can be arranged by calling (970) 468-2207.</p>
+                            <p><strong>Winter Schedule</strong></p>
 
-                            <p>Donations are accepted.</p>
+                            <p>The Schoolhouse Museum is open by appointment only.  Tours can be arranged by calling 970-468-2207.</p>
 
-                            <p>Special tours can be arranged by calling (970) 468-2207.</p>
+                            <p><strong>Costs</strong></p>
+
+                            <p>Your $5 donation supports the Museum and other educational programs of the Summit Historical Society.</p>
                         </div> 
 
                         <!--image-->
@@ -91,10 +87,13 @@
 
                             <h3>Montezuma Schoolhouse</h3>
 
-                            <p>Visit the 1884 one-room schoolhouse located at 10,400 feet in the heart of the 1865 silver-rich mining town of Montezuma!</p>
+                            <p><strong>Schedule</strong></p>
 
-                            <p><strong>Schedule:</strong><br>
-                            The Montezuma Schoolhouse is currently only open by appointment and tours can be arranged by calling 970-468-2207.</p>
+                            <p>The Montezuma Schoolhouse is open by appointment.  Tours can be arranged by calling 970-468-2207.</p>
+
+                            <p><strong>Costs</strong></p>
+
+                            <p>Your $5 donation supports the maintenance of the schoolhouse and other educational programs of the Summit Historical Society.</p>
 
                         </div> 
 
@@ -134,10 +133,15 @@
 
                             <h3>Dillon, Denver, and the Dam</h3>
 
-                            <p>Spend the morning with Sandra Mather the author of Dillon, Denver, and the Dam, a Summit Historical Society publication. Learn about the building of Dillon Dam and the creation of "new" Dillon. Wear walking shoes and bring rain gear if necessary. There is a fee for this tour.</p>
+                            <p>Spend the morning with Sandra Mather, the author of <em>Dillon, Denver, and the Dam</em>, a Summit Historical Society publication.  Learn about the building of Dillon dam and the creation of “new” Dillon.</p>
 
-                            <p><strong>Summer schedule:</strong><br>
-                            Thursdays, July 18th through August 29th. Tours start at 10:00 a.m.  Meet at the 'Dillon Schoolhouse Museum' at 403 La Bonte St. in Dillon, CO.</p>
+                            <p><strong>Schedule</strong></p>
+
+                            <p>This tour is offered on Thursday mornings from mid-July to late August at 10:00.  Meet at the Schoolhouse Museum at 403 LaBonte Street in Dillon.  Wear walking shoes and bring rain gear, if necessary.</p>
+
+                            <p><strong>Cost</strong></p>
+
+                            <p>There is a $10 fee for this tour.</p>
 
                         </div>
 

@@ -4,11 +4,11 @@
 	<div class="col-md-8">
 		<h1>Honeymoon Cabin</h1>
 
-		<p>Most likely one man built this one-room cabin without assistance in the 1930s. It is in a style found in Scandinavia, with peeled logs that are very large at the base, becoming smaller as the walls increase in height. The door is very small - to keep the heat in, not because the owner was short. The caulking is cement on the outside. Inside, newspapers and rags add additional insulation from the cold, and slender aspen boughs, nailed between the logs, afford extra protection from the elements. One wall has no opening; this wall and all the corners were packed with snow to improve the insulation. The roof is corrugated galvanized steel.</p>
+		<p>Most likely, one man built this log cabin without assistance in the 1930s.  Probably of Scandinavian origin, he used peeled logs of diminishing size for the walls—largest at the bottom—smaller at the top.  The small door doesn’t reflect the size of the builder; rather it helped keep the heat inside.  Cement caulked the walls on the outside, but on the inside narrow aspen boughs, nailed between the logs, provided extra insulation.  One wall has no opening. Snow would have been shoveled against this wall for even more protection from winter cold.  Corrugated galvanized steel covers the roof.</p>
 
-		<p>This is a "survival" cabin, a descriptive name that came out of the Great Depression. With no jobs available, a lumberman could build his own home single-handedly, cut down trees in the nearby forest for fuel to burn in a stove that served as a heater as well as a griddle/oven. Handily, he might cultivate some vegetables in the short growing season and survive on hunting and fishing. Screens, like the one in the cabin, divided the one room into areas so the inhabitants had some privacy.</p>
+		<p>A "survival cabin," this type of structure allowed a person to construct a cabin using trees from the nearby forest.  Those nearby trees also fueled his cook stove and provided heat.</p>
 
-		<p><strong>Directions:</strong> The Honeymoon Cabin is located at 403 LaBonte Street in Dillon, behind the Dillon Schoolhouse.</p>
+		<p><strong>Directions:</strong> You will find the Honeymoon Cabin next to the Myers Cabin, behind the Schoolhouse Museum at 403 LaBonte Street in Dillon.</p>
 	</div>
 	
 	<!--images-->
