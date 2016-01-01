@@ -175,8 +175,7 @@
                                 <div class="col-md-9 services-text">
                                     <h4 class="heading-mini">Tours</h4>
                                     <p>
-                                        Gold Mines! Walking Tour! Historical Museums! Rotary Snowplow and Railroad Museum! Dillon Cemetery!  Click to learn more.
-                                    </p>
+                                        Lake Dillon Boat Rides.  1883 Schoolhouse Museum Tours.  Historic Cabins.  Dillon Walking Tours.  Montezuma Schoolhouse.  Bike Rides into History.</p>
                                 </div>
                             </div><!--services list-->
                         </a>
