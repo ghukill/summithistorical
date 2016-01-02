@@ -51,7 +51,7 @@
 
                     <p><a href="documents/MembershipBrochure.pdf">Download our Membership Brochure (PDF)</a></p>
 
-                    <iframe src="http://docs.google.com/gview?url=http://68.42.117.7/summithistorical/documents/MembershipBrochure.pdf&embedded=true" style="width:100%; height:640px;" frameborder="0"></iframe>
+                    <iframe src="http://docs.google.com/gview?url=https://raw.githubusercontent.com/ghukill/summithistorical/master/documents/Summit_Historical_Membership_Brochure_.pdf&embedded=true" style="width:100%; height:640px;" frameborder="0"></iframe>
                 </div>
             </div>
         </div>
