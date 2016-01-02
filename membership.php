@@ -47,9 +47,7 @@
                 <div class="col-md-12">
                     <h1>Membership</h1>
 
-                    <!-- <p>The Society welcomes volunteers — men, women, and youngsters. We depend heavily on our volunteers for a variety of tasks. We need help with special events, publicity, fund-raising, maintenance and upkeep on our sites, archive and collection management, grant writing, staffing the SHS table at the Dillon Farmer’s Market, leading boat tours on Lake Dillon, guiding visitors through the Schoolhouse Museum, the Myers Cabin, and Honeymoon Cabin, and developing exhibits for various venues. If you can give of your talents and time, please call the SHS office at 970-468-2207.</p> -->
-
-                    <p><a href="documents/MembershipBrochure.pdf">Download our Membership Brochure (PDF)</a></p>
+                    <p><a href="documents/Summit_Historical_Membership_Brochure_.pdf">Download our Membership Brochure (PDF)</a></p>
 
                     <iframe src="http://docs.google.com/gview?url=https://raw.githubusercontent.com/ghukill/summithistorical/master/documents/Summit_Historical_Membership_Brochure_.pdf&embedded=true" style="width:100%; height:640px;" frameborder="0"></iframe>
                 </div>
