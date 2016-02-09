@@ -128,13 +128,18 @@
 
 					<h3>Car Donations through Vehicles of Charity</h3>
 
-					<p>SHS is a member of the Vehicles for Charity program.  It is a very simple process to donate.  Contact 
+                    <div class="col-md-8">
+                        <p>SHS is a member of the Vehicles for Charity program.  It is a very simple process to donate.  See the FAQ's here or call car donation hotline at <a href="tel:1-866-628-2277">1-866-628-2277</a> or <a href="1-866-628-2277">1-866-628-CARS</a>.  The Society will receive 80% of the sale price of the vehicle; Vehicles for Charity retains 20% administrative fee.  Cars should be year 2000 or newer at the time of donation.  For questions or to donate your car, <a href="http://www.vehiclesforcharity.org/Donate/SUM.html">click here and fill out your information</a>.</p>
 
-					the SHS office for the phone number of the Vehicles for Charity program.  The Society gets 80 
+                        <p><a target="_blank" href="assets/pdf/carfaq.pdf">Click here for frequently asked questions about car donations</a>.</p>
+                    </div>
 
-					percent of the sale price of the vehicle; Vehicles for Charity keeps 20 percent.  Cars should not be 
+                    <div class="col-md-4">
+                        <img class="img-responsive" src="assets/img/donatecar.jpg"/>
+                    </div>
 
-					more than five years old at the time of donation.</p>
+
+					
 
                 </div>
             </div>

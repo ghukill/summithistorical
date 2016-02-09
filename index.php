@@ -209,7 +209,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <div class="testimonials">
+                        <!-- <div class="testimonials">
                             <ul class="slides">
                                 <li>
                                     <p class="testi-text">"The Summit Historical Society is pretty much the bee's knees."<p>
@@ -224,7 +224,7 @@
                                         <span class="testi-person">Victor - Place in Colorado</span>
                                 </li>
                             </ul>
-                        </div>
+                        </div> -->
                     </div>
 
                 </div>
