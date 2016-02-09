@@ -43,12 +43,13 @@
                             <li><a href="newsletter.php">Newsletter</a></li>  
                         </ul>
                     </li>
+                    <li><a href="waystogive.php">Ways to Give</a></li>  
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle js-activated" data-toggle="dropdown">Get Involved</a>
                         <ul class="dropdown-menu">
                             <li><a href="membership.php">Membership</a></li>                              
                             <li><a href="volunteer.php">Volunteer</a></li>
-                            <!-- <li><a href="donors.php">Donors</a></li> -->
+                            <li><a href="waystogive.php">Ways to Give</a></li>
                         </ul>
                     </li>
                     <li><a href="contact.php">Contact</a></li>
