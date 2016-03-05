@@ -46,10 +46,8 @@
             <div class="row">
                 <div class="col-md-12">
                     <h1>Membership</h1>
-
-                    <p><a href="documents/Summit_Historical_Membership_Brochure_.pdf">Download our Membership Brochure (PDF)</a></p>
-
-                    <iframe src="http://docs.google.com/gview?url=https://raw.githubusercontent.com/ghukill/summithistorical/master/documents/Summit_Historical_Membership_Brochure_.pdf&embedded=true" style="width:100%; height:640px;" frameborder="0"></iframe>
+                    <p><a href="assets/documents/Summit_Historical_Membership_Brochure.pdf">Download our Membership Brochure (PDF)</a></p>
+                    <iframe src="http://docs.google.com/gview?url=http://summithistorical.org/assets/documents/Summit_Historical_Membership_Brochure.pdf&embedded=true" style="width:100%; height:640px;" frameborder="0"></iframe>
                 </div>
             </div>
         </div>

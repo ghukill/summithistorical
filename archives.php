@@ -47,7 +47,7 @@
                 <div class="col-md-12">
                     <h1>Archives and Research</h1>
 
-                    <p>The Summit Historical Society supports the Rutledge Archive Room in Dillon and the Mather Archive Room in Breckenridge.  It helps maintain a large collection of photographs and maps along with government documents and newspapers.  To learn more about the archive rooms, contact <a href="mailto:archive@summithistorical.org">archive@summithistorical.org</a></p>
+                    <p>The Summit Historical Society supports the Rutledge Historic Collections Room in Dillon and the Mather Archive Room in Breckenridge with its maps, photographs, documents, and newspapers.  For all research questions, please send your questions to Kris Ann Knish, Archivist, Mather Archive Room at <a href="mailto:archive@breckheritage.com">archive@breckheritage.com</a>.</p>
                 </div>
             </div>  
         </div>
