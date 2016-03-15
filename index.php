@@ -239,6 +239,21 @@
             </div>
         </div>
 
+        <div class="cta-bg" style="background-color:white;">
+            <div class="container text-center">
+                <div class="col-md-12 text-center">
+                    <p><strong>See also our sister organizations across Summit County:</strong></p>
+                    <br>
+                </div>                
+                <div class="col-md-5">
+                    <img style="margin:auto; float:center;" class="img-responsive" src="assets/img/bha_logo.jpg"/>
+                </div>
+                <div class="col-md-5">
+                    <img style="margin:auto; float:center;" class="img-responsive" src="assets/img/fhpm_logo.gif"/>
+                </div>
+            </div>
+        </div>
+
         <!-- ################ PAGE CONTENT ################  -->
 
         <!-- load footer -->
