@@ -246,10 +246,10 @@
                     <br>
                 </div>                
                 <div class="col-md-5">
-                    <img style="margin:auto; float:center;" class="img-responsive" src="assets/img/bha_logo.jpg"/>
+                    <a href="http://breckheritage.com/"><img style="margin:auto; float:center;" class="img-responsive" src="assets/img/bha_logo.jpg"/></a>
                 </div>
                 <div class="col-md-5">
-                    <img style="margin:auto; float:center;" class="img-responsive" src="assets/img/fhpm_logo.gif"/>
+                    <a href="http://www.townoffrisco.com/play/historic-park-and-museum/general-info/"><img style="margin:auto; float:center;" class="img-responsive" src="assets/img/fhpm_logo.gif"/></a>
                 </div>
             </div>
         </div>
