@@ -47,48 +47,43 @@
                 <div class="col-md-12">
                     <h1>Events</h1>
 
-                     <div class="space-20"></div>
-
-                    <h3>Current Events</h3>
-
-                    <div>
-                        <ul>
-                            <li>
-                                <h4><strong>Women’s History Month Celebration with Sandra Dallas</strong></h4>
-                                <p>Join the Society of 2:00 pm on Saturday, March 12, in the Commons of the Dillon Community Church (LaBonte Street, Dillon) for an afternoon of tea, goodies, and conversation with noted author, Sandra Dallas, a New York Times best-selling author.  Ms. Dallas will focus her conversation on three of her books:  The Last Mid-Wife, released September, 2015; Prayers for Sale; and Whiter than Snow, as all three books are set in Summit County.  Ms. Dallas, who lived in Breckenridge for many years, weaves Summit County history, weather, and geography as well as her love of quilts into her historical fiction.  Because quilts are featured prominently in Ms. Dallas’ books, local quilters will present a display of quilts at this event.  Alpine Bank is primary sponsor for the event.  The charge for Society members is $20; non-members $25.  Limited space requires pre-registration.  Register through Eventbrite or call Christy Nelson at the SHS office at <a href="tel:970-468-2207">970-468-2207</a> to reserve your spot.</p>
-                            </li>
-                        </ul>
-                    </div>
-
                     <div class="space-20"></div>
 
                     <h3>Summer Events</h3>
 
-                    <div>
-                        <ul>
-                            <li><p>Beginning July 5 and extending through September 2, the <strong>Dillon Schoolhouse Museum</strong> will open Tuesday through Friday from 10:00 until 3:00.  A donation of $5 is requested of adult visitors.  Learn about school days of the past in the authentically furnished 1883 schoolhouse.  View “Town at the Bottom of the Lake,” which tells about the construction of Dillon Dam.  Tour the Lula Myers 1885 cabin and the “honeymoon” cabin.  Special tours are offered by appointment.  The museum is located at <a target="_blank" href="https://www.google.com/maps/place/Dillon+Schoolhouse+Museum/@39.631276,-106.0456818,17z/data=!3m1!4b1!4m2!3m1!1s0x876a5b9b4e029ebd:0xf80b6dcffbbb5575">403 LaBonte Street in Dillon</a>.</p></li>
+                    <p>Join the Historical Society this summer for a wide variety of experiences that will interest people of all ages.</p>
 
-                            <li><p><strong>Lake Dillon boat tours</strong> are planned for Tuesdays and Thursdays from 9:00 until 10:30 mid-June until the end of August.  Spend the morning learning about the construction of Dillon dam, the glory hole, and the Roberts Tunnel while sailing slowly around Lake Dillon.  Learn how the old town of Dillon was moved to its new site.  Call the Dillon Marina for reservations (<a href="tel:970-468-5100">970-468-5100</a>).</p></li>
-     
-                            <li><p>Join Sandie Mather on Thursday mornings at 9:00 for her <strong>Dillon, Denver, and the Dam talk and walk</strong>.  Meet at the Schoolhouse Museum on LaBonte Street in Dillon.  Learn about the building of the dam and moving the town of Dillon.  Walk through town seeing buildings moved from the reservoir site and hear stories of Dillon residents through the decades.  The cost is $10.  The tours start July 14 and run through August 25.</p></li>
-     
-                            <li><p>The <strong>Donors’ Celebration and Happy Hour</strong> is scheduled for Wednesday, July 6, at 5:30 at the Schoolhouse Museum.  Watch for your special invitation.</p></li>
-     
-                            <li><p>Enjoy five-cent ice cream and other goodies at the annual <strong>Ice Cream Social</strong> on Saturday, July 16, at the Schoolhouse Museum on LaBonte Street in Dillon.  The festivities begin at noon.  Docents will guide visitors through the schoolroom, the Myers Cabin, and “honeymoon” cabin.  Ring the bell on the 1942 Sterling Howe fire truck and in the schoolhouse.  Other special activities are planned.</p></li>
-     
-                            <li><p>Bill Fountain will lead a <strong>tour to Swandyke</strong> on Wednesday, July 20, to celebrate the publication of his newest book, Swandyke, Boom to Bust to Dust.  Join the fun and receive a copy of the new book.  Details coming.</p></li>
-     
-                            <li><p>Rick Hague will lead a <strong>tour of the Mountain Pride mine on Mt. Baldy</strong> on Wednesday, August 17.  Details coming.</p></li>
-     
-                            <li><p>The popular <strong>Pastry and the Past dessert and lecture series</strong> begins on Monday, July 11, and continues on July 18, 25, and August 2.  Details about speakers and topics coming.  Join us for dessert at 7:30—note the later starting time—in the Commons of Dillon Community Church on LaBonte Street in Dillon.</p></li>
-     
-                            <li><p>Two special <strong>adventures for bike riders</strong> are planned for July and August—one is especially for families with children.  Watch for details.</p></li>
-     
-                            <li><p>Bring your appetites to the <strong>Elks breakfast</strong> on Sunday, July 31.  Enjoy their special menu while greeting friends.</p></li>
-     
-                            <li><p>A special <strong>celebration in honor of our 50th anniversary</strong> will be held on Thursday, August 11, at our annual meeting.  Watch for details.  The new book, Windows to the Past,  honoring our 50 years of service to Summit County and its residents will be unveiled.</p></li>
-     
-                            <li><p>Don’t forget to stop to say hello at the <strong>Society’s table at the Dillon Farmers’ Market</strong> on Fridays beginning June 24.  Besides our usual supply of books for sale, there will be some new books and a special “surprise” you can buy to carry your new books.  The market opens at 9:00 and runs until 2:00.</p></li>
+                    <div>
+                        <ul class="spaced">
+                            
+                            <li>Tuesday, July 5, until Friday, September 2:  <strong>Schoolhouse Museum Tours</strong>.  Trained docents lead guided tours of the <a href="site_details.php?site=dillon_schoolhouse">Schoolhouse Museum</a>, <a href="site_details.php?site=dillon_lula">Myers Cabin</a>, and <a href="site_details.php?site=dillon_honeymoon">Honeymoon Cabin</a>.  Learn about school days in the 1883 Schoolhouse.  Tour the 1885 home of Lula  Myers, a one-time schoolmarm, and her husband, Dimp, a mining engineer.  Spend a few moments learning about the challenges of domestic life in a one-room log cabin.  Docents lead tours Tuesday through Friday from 11:00 until 3:00.  The Museum is located at <a href="https://www.google.com/maps/place/Dillon+Schoolhouse+Museum/@39.631276,-106.0456818,17z/data=!3m1!4b1!4m2!3m1!1s0x876a5b9b4e029ebd:0xf80b6dcffbbb5575">403 LaBonte Street in Dillon</a>.  A $5 donation is requested from adult guests.  Individual and group tours are available upon request.</li>
+
+                            <li>Tuesday and Thursday mornings, June 14 through September 1, 9:00 until 10:30:  <strong>Historic Boat Rides on Lake Dillon</strong>.  Trained guides lead historic boat rides on Lake Dillon.  Learn about building Dillon Dam and the Roberts Tunnel and relocating the Town of Dillon.   Guides tell about the mining history of Summit County, its two narrow-gauge railroads, wildlife found around the lake, and the glaciers that covered the county thousands of years ago.  For reservations call Dillon Marina (970-468-5100).</li>
+
+                            <li>Thursday mornings, July 14 through August 25:  <strong>Dillon, Denver, and the Dam</strong>.  Join Sandie Mather, author of Dillon, Denver, and the Dam, at 9:00 at the Schoolhouse Museum,  403 LaBonte Street, Dillon.  You will proceed to the water front to learn about constructing the dam, outlet works, and Roberts Tunnel.  After hearing the story of building the new town, you will walk through Dillon looking at some of the structures moved from the old town and hear stories about some of the interesting people who lived there.  The cost is $10 per adult.</li>
+
+                            <li><strong>Pastry and the Past Dessert and Lecture Series</strong>:  The highly successful and interesting Monday-evening presentations return with four exciting speakers.   The talks are held in the Commons of the Dillon Community Church on LaBonte Street in Dillon—next to the <a href="site_details.php?site=dillon_schoolhouse">Historical Society’s Schoolhouse Museum</a>.  Home-made desserts, prepared by Society members, will be served at 7:30.  Note the new starting time.  The cost is $5 for members; $10 for non-members.</li>
+
+                            <li>July 11:  <strong>The Narrow-Gauge Railroads of Summit County</strong>.  Join Bob Schoppe, President of the Denver, South Park & Pacific Historical Society, for a night of stories about the narrow-gauge railroads that brought a myriad of changes to the county from the early 1880s until 1937.  Learn about the new publication, Summit County’s Narrow-Gauge Railroads, which will be published in the fall.</li>
+
+                            <li>July 18:  <strong>Memories of the 10th Mountain Division</strong>.  Hugh Evans, a native of California, trained at Camp Hale and Cooper ski area before leaving for northern Italy in January, 1945.  A month later, he fought on Mount Gorgolesco, earning the coveted Silver Star for valor and gallantry in action.  After the war, he graduated from the Colorado School of Mines, becoming a geologist and mining engineer.  Mr. Evans, now 92 years old and living in Boulder with his wife, Ann, will share his experiences of both Camp Hale and Italy in his talk.</li>
+
+                            <li>July 25:  <strong>Ski History of Keystone</strong>.  Join Karina Wetherbee, the granddaughter of Max and Edna Dercum, in a multi-media presentation about her grandparents and the development of the Keystone Ski Resort.  Learn about the early years of the ski area and Ski Tip Ranch through interesting stories and family photographs.
+                            August 1:  Stories of the Nuche, Tales from the Ute People.  Join Skyler Lomahaftewa, a Northern Ute tribal member and snowboard instructor,  and Nina Gabianelli,  from the Aspen Historical Society,  tell about the life of the Ute people today and their efforts to preserve their ancient culture amid pressure from the “modern” world.  They focus on story-telling to entertain as well as educate.</li>
+
+                            <li>Saturday, July 9:  <strong>History on the Move—A Family Bike Ride</strong>.  Join our historians for a bike ride going from the Schoolhouse Museum, 403 LaBonte Street in Dillon, to the Glory Hole Overlook at the west abutment of Dillon Dam.  In a talk intended for young listeners, the guides will tell about building the dam, Glory Hole, and Roberts Tunnel.  They will tell stories about moving the old town to its new site.  After returning to the Schoolhouse Museum for a short tour, everyone will enjoy an ice cream treat.  The ride starts at 10:00 and will last about three hours.  Reservations are required.  To make your reservation, call the Historical Society Office at 970-468-2207.  The cost is $20 for an adult; $10 for a child up to the age of 12.  Children must be accompanied by an adult.</li>
+
+                            <li>Saturday, July 16:  <strong>Annual Ice Cream Social</strong>.  Tour the <a href="site_details.php?site=dillon_schoolhouse">Schoolhouse Museum</a>; enjoy ice cream costing five cents; find sweets in the “country store;” ring the schoolhouse bell; climb on the antique fire engine; and have a good time with friends.  The Social goes from 12:00 until 4:00 at the Schoolhouse Museum on <a href="https://www.google.com/maps/place/Dillon+Schoolhouse+Museum/@39.631276,-106.0456818,17z/data=!3m1!4b1!4m2!3m1!1s0x876a5b9b4e029ebd:0xf80b6dcffbbb5575">LaBonte Street in Dillon</a>.</li>
+
+                            <li>Wednesday, July 20:  <strong>Swandyke, A Four-wheeling Adventure</strong>.  Join Bill Fountain for a trip to the ghost town of Swandyke, the subject of his new book, Swandyke, Boom to Bust to Dust.  Swandyke, located at the headwaters of the Middle Fork of the Swan River, had a life span of about ten years, typical of the many boom and bust towns of Summit County. Registration is $30 for members; $35 for non-members.  Those attending will receive a copy of the new book as part of their registration.  Bring your lunch, water, and all-weather gear.  The group will meet at 8:45 at the dredge #4 parking lot on Tiger Road.   Reservations are required.  To reserve your spot, call the Summit Historical Office at 970-468-2207.  Please note that car-pooling might be necessary as high-clearance 4 X 4 vehicles are needed to negotiate the road to Swandyke.</li>
+
+                            <li>Sunday, July 31:  <strong>Fundraising Breakfast at the Elks Lodge</strong>.  Join your friends for a yummy breakfast at the Elks Lodge from 9:00 until 12:00.  Tickets cost $10 prior to the event; $12 at the door.  The Elks Lodge, #2561, is located at <a href="https://www.google.com/maps/place/1321+Blue+River+Pkwy,+Silverthorne,+CO+80498/@39.6455761,-106.0812619,17z/data=!3m1!4b1!4m2!3m1!1s0x876a5c96de799b79:0xf9ce47395b81d250">1321 Blue River Parkway in Silverthorne</a>.  Your support helps the Society maintain its buildings and present a full schedule of events each summer.</li>
+
+                            <li>Wednesday, August 17:  <strong>The Mountain Pride Mine</strong>.  Join Rick Hague as you learn about the Mountain Pride Mine located on the lower slopes of Mt. Baldy.  The mine had an active lifespan of about six years at most—from about 1897 until just after the turn of the century.  Despite having all the right things needed to succeed, it failed.  Reservations are required.   Registration is $30 for members, $35 for non-members.  Those attending will receive a copy of Windows to the Past, which contains the full story of the Mountain Pride, as part of their registration.  Bring your own lunch, water, and all-weather gear.  Meet at 10:00 at the Mt. Baldy Trailhead.  For reservations, call the Historical Society Office at 970-468-2207.
+                            <br><br>
+                            Directions to the Trailhead:  Take Main Street in Breckenridge south to Boreas Pass Road—the Conoco gas station is on the right.  Turn left (east).  Proceed 2-2.5 miles to a fork in the road.  Take the left fork, which is Baldy Road.  Proceed 1-1.5 miles to what looks like a cul-de-sac.  Park in the parking area.  You will see the trailhead sign to the right.  The trail starts on a dirt road leading from the cul-de-sac.</li>
+
+
                         </ul>
                     </div>
 
