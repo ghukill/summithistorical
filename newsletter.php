@@ -53,6 +53,7 @@
                     <!--downloads-->
                     <h3>Downloads</h3>
                     <ul>
+                        <li><a href="newsletter/Spring_2016.pdf">Spring 2016</a></li>
                         <li><a href="newsletter/Winter_2016.pdf">Winter 2016</a></li>
                         <li><a href="newsletter/Winter_2014.pdf">Winter 2014</a></li>
                         <li><a href="newsletter/winter_spring_2013.pdf">Winter / Spring 2013</a></li>

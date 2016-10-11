@@ -49,11 +49,17 @@
 
                     <div class="space-20"></div>
 
-                    <h3>Summer Events</h3>
+                        <p>Thank you for a fantastic summer of special events.  The Society is already planning for the winter season and next summer.
 
-                    <p>Thank you for a fantastic summer of special events.  The Society is already planning for the winter season and next summer.  Check this section of the website for information about our <strong>Christmas Bazaar</strong> on November 18 and 19 in the Dillon Community Church.  Mark your calendars for a very special program of <strong>Ute culture and dance</strong> on January 29 at the Silverthorne Pavilion.  The <strong>annual Women’s History Month Celebration</strong> on March 11 will feature Christy Rost, recognized this year along with her husband for the restoration of the Ben Stanley Revett Mansion, Swan’s Nest.</p>
+                        <p>Please join us for our <strong>annual Christmas bazaar</strong> that will be held again at Dillon Community Church next to the museum.  Mark your calendars for Friday, <strong>November 18</strong>, from 2:00 until 6:30 and Saturday, <strong>November 19</strong>, 9:00 until 4:00.  Get a start on your Christmas shopping and check out the jewelry, wood and paper crafts, photography, hand-painted items, textiles, food gifts, and much more.  Don’t forget to pick up a grab bag as the proceeds directly benefit the museum.  On Saturday, enjoy holiday music and treats in the Schoolhouse Museum.</p>
 
-                    <p>Next summer’s schedule will feature some new hikes, events especially for children in the Schoolhouse Museum, the very successful Pastry and the Past series, our historic boat rides on Lake Dillon, the ice cream social, tours of the schoolhouse museum—and a very special event, Suds at the Summit early in July.</p>
+                        <p>We are pleased to announce our first <strong>Full Moon Snowshoe Hike</strong>.  Candy Elkind, a good friend of the Society, is inviting SHS members and friends alike to join her on Wednesday, <strong>December 14</strong>, for a Full Moon Snowshoe Hike from 4:30 until 7:30.  The full moon that night is called the “cold moon.”   This is a dog-friendly event along a snowshoe trail in Wildernest.  Following the event, there will be hot chocolate and cookies in the Club House  You will need to register for the event by calling the Society’s office at 970-468-2207.  The cost is $5 for non-members; members and children are free.  Details of where to meet will be available soon.  If it is snowy or cloudy, headlamps are advisable.</p>
+
+                        <p>Mark your calendars for a very special program of <strong>Ute culture and dance</strong> on <strong>January 29</strong> at the Silverthorne Pavilion.  The <strong>annual Women’s History Month Celebration</strong> on March 11 will feature Christy Rost, recognized this year along with her husband for the restoration of the Ben Stanley Revett Mansion, Swan’s Nest.</p>
+
+                        <p>Next summer’s schedule will feature some new hikes, events especially for children in the Schoolhouse Museum, the very successful Pastry and the Past series, our historic boat rides on Lake Dillon, the ice cream social, tours of the schoolhouse museum—and a very special event, Suds at the Summit early in July.</p>
+
+
 
                     <div>
                         <ul class="spaced">
