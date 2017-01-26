@@ -49,17 +49,24 @@
 
                     <div class="space-20"></div>
 
-                        <p>Thank you for a fantastic summer of special events.  The Society is already planning for the winter season and next summer.
+                        <div class="col-md-9">
+                            <p>Next summer’s schedule will feature some new hikes, events especially for children in the Schoolhouse Museum, the very successful Pastry and the Past series, our historic boat rides on Lake Dillon, the ice cream social, tours of the schoolhouse museum—and a very special event, Suds at the Summit early in July.</p>
 
-                        <p>Please join us for our <strong>annual Christmas bazaar</strong> that will be held again at Dillon Community Church next to the museum.  Mark your calendars for Friday, <strong>November 18</strong>, from 2:00 until 6:30 and Saturday, <strong>November 19</strong>, 9:00 until 4:00.  Get a start on your Christmas shopping and check out the jewelry, wood and paper crafts, photography, hand-painted items, textiles, food gifts, and much more.  Don’t forget to pick up a grab bag as the proceeds directly benefit the museum.  On Saturday, enjoy holiday music and treats in the Schoolhouse Museum.</p>
+                            <p>On March 11 we will host the annual <strong>Women’s History Month Celebration</strong> featuring Christy Rost.  Ms. Rost is a public television chef and host. She authored three cookbooks, is a home restoration expert, a Registered Nurse, and popular guest chef for food and wine festivals, home shows and women’s expo’s.</p>
 
-                        <p>We are pleased to announce our first <strong>Full Moon Snowshoe Hike</strong>.  Candy Elkind, a good friend of the Society, is inviting SHS members and friends alike to join her on Wednesday, <strong>December 14</strong>, for a Full Moon Snowshoe Hike from 4:30 until 7:30.  The full moon that night is called the “cold moon.”   This is a dog-friendly event along a snowshoe trail in Wildernest.  Following the event, there will be hot chocolate and cookies in the Club House  You will need to register for the event by calling the Society’s office at 970-468-2207.  The cost is $5 for non-members; members and children are free.  Details of where to meet will be available soon.  If it is snowy or cloudy, headlamps are advisable.</p>
+                            <p>Based in Texas and passionately dedicated to the celebration of Home and Family, Ms. Rost’s focus on sustainability, farm to plate, cooking with local ingredients, and food and wine pairings is heavily influenced by the months she lives and works in her recently-restored 1898 Breckenridge, CO historic mountain home, the Ben Stanley Revett Mansion now called Swan’s Nest. Check out this <a href="https://www.youtube.com/watch?v=9l7GKJH_BhM&feature=youtu.be&list=PLAAZQmIdX_M-Qv0YLL10MwIP-9oYZ4myU">video on the home or view pictures shot by the <a href="http://photos.denverpost.com/2015/02/28/photos-swans-nest-house-near-breckenridge/#1">Denver Post</a>.</p>
 
-                        <p>Mark your calendars for a very special program of <strong>Ute culture and dance</strong> on <strong>January 29</strong> at the Silverthorne Pavilion.  The <strong>annual Women’s History Month Celebration</strong> on March 11 will feature Christy Rost, recognized this year along with her husband for the restoration of the Ben Stanley Revett Mansion, Swan’s Nest.</p>
+                            <p>Ms. Rost and her husband, Randy, received the Breckenridge Heritage Alliance’s Theobald Award for historic preservation and advocacy for their outstanding remodel and preservation this past November. The Rost’s purchased the property in August 2006 and spent years restoring the home, preserving practical historic detail, but bringing its infrastructure up to modern standards. We look forward to hearing about the home’s restoration, her love of Breckenridge and her passion for cooking in March.</p>
 
-                        <p>Next summer’s schedule will feature some new hikes, events especially for children in the Schoolhouse Museum, the very successful Pastry and the Past series, our historic boat rides on Lake Dillon, the ice cream social, tours of the schoolhouse museum—and a very special event, Suds at the Summit early in July.</p>
+                            <p>This summer’s schedule will feature new hikes, events especially for children in the Schoolhouse Museum, the very successful Pastry and the Past series, our historic boat rides on Lake Dillon, the ice cream social, tours of the schoolhouse museum—and a very special event, Suds at the Summit early in July. We hope you can join us!</p>
+                        </div>
 
+                         <div class="col-md-3">
 
+                            <img src="assets/img/chef_christy_2045_2.jpg" class="img-responsive" alt="Christy Rost"/>
+                            <p style="text-align:center;"><a href="http://www.christyrost.com/" target="_blank"><strong>Christy Rost</strong></a></p>
+
+                        </div>
 
                     <div>
                         <ul class="spaced">
