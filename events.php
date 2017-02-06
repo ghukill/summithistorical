@@ -49,23 +49,57 @@
 
                     <div class="space-20"></div>
 
-                        <div class="col-md-9">
+                        <div class="col-md-12">
                             <p>Next summer’s schedule will feature some new hikes, events especially for children in the Schoolhouse Museum, the very successful Pastry and the Past series, our historic boat rides on Lake Dillon, the ice cream social, tours of the schoolhouse museum—and a very special event, Suds at the Summit early in July.</p>
 
-                            <p>On March 11 we will host the annual <strong>Women’s History Month Celebration</strong> featuring Christy Rost.  Ms. Rost is a public television chef and host. She authored three cookbooks, is a home restoration expert, a Registered Nurse, and popular guest chef for food and wine festivals, home shows and women’s expo’s.</p>
+                            <hr>
 
-                            <p>Based in Texas and passionately dedicated to the celebration of Home and Family, Ms. Rost’s focus on sustainability, farm to plate, cooking with local ingredients, and food and wine pairings is heavily influenced by the months she lives and works in her recently-restored 1898 Breckenridge, CO historic mountain home, the Ben Stanley Revett Mansion now called Swan’s Nest. Check out this <a href="https://www.youtube.com/watch?v=9l7GKJH_BhM&feature=youtu.be&list=PLAAZQmIdX_M-Qv0YLL10MwIP-9oYZ4myU">video on the home or view pictures shot by the <a href="http://photos.denverpost.com/2015/02/28/photos-swans-nest-house-near-breckenridge/#1">Denver Post</a>.</p>
+                            <div class="row">
+                                <div class="col-md-9">
 
-                            <p>Ms. Rost and her husband, Randy, received the Breckenridge Heritage Alliance’s Theobald Award for historic preservation and advocacy for their outstanding remodel and preservation this past November. The Rost’s purchased the property in August 2006 and spent years restoring the home, preserving practical historic detail, but bringing its infrastructure up to modern standards. We look forward to hearing about the home’s restoration, her love of Breckenridge and her passion for cooking in March.</p>
+                                    <h3>Summit Historical Society Presents:<br>
+                                    Seasons Of The Nuche: Transitions of the Ute People</h3>
 
-                            <p>This summer’s schedule will feature new hikes, events especially for children in the Schoolhouse Museum, the very successful Pastry and the Past series, our historic boat rides on Lake Dillon, the ice cream social, tours of the schoolhouse museum—and a very special event, Suds at the Summit early in July. We hope you can join us!</p>
-                        </div>
+                                    <p>For thousands of years Nuche people lived and died in the land now known as Colorado. They gave birth, worked hard and celebrated the seasons. The long nights of winter were traditionally a time for storytelling. Today, the Ute continue this tradition through revitalization efforts of their language, stories, songs, dance and creation of traditional art forms.</p>
 
-                         <div class="col-md-3">
+                                    <p><strong>Come to the Silverthorne Pavilion, 400 Blue River Parkway, on Sunday, Feb. 26.  Doors open at 1:30 pm and performance begins at 2 pm.</strong></p>
 
-                            <img src="assets/img/chef_christy_2045_2.jpg" class="img-responsive" alt="Christy Rost"/>
-                            <p style="text-align:center;"><a href="http://www.christyrost.com/" target="_blank"><strong>Christy Rost</strong></a></p>
+                                    <p>Listen to the Ute Tribal Members tell their stories.  Watch the Dance Troupe of ten members share their culture and history through song and dance. For advanced tickets for this big celebration visit <a href="https://www.eventbrite.com/e/seasons-of-the-nuche-transitions-of-the-ute-people-tickets-31686145113?utm-medium=discovery&amp;utm-campaign=social&amp;utm-content=attendeeshare&amp;aff=escb&amp;utm-source=cp&amp;utm-term=listing">EventBrite</a>.</p>
 
+                                    <ul>Ticket prices on the day of the event:
+                                        <li>SHS Members $15</li>
+                                        <li>General Admission $20</li>
+                                        <li>Students and CMC Students with ID $5</li>
+                                    </ul>
+
+                                </div>
+                                <div class="col-md-3">
+                                    <a href="assets/img/nuche.png"><img src="assets/img/nuche.png" class="img-responsive" alt="nuche"/></a>
+                                    <br>
+                                    <a href="assets/img/UteDancer.jpg"><img src="assets/img/UteDancer.jpg" class="img-responsive" alt="Ute Dancer"/></a>
+                                </div>
+                            </div>
+
+                            <hr>
+
+                            <div class="row">
+                                <div class="col-md-9">
+                                    <h3>Women’s History Month Celebration:<br>
+                                    Christy Rost</h3>
+
+                                    <p>On March 11 we will host the annual <strong>Women’s History Month Celebration</strong> featuring Christy Rost.  Ms. Rost is a public television chef and host. She authored three cookbooks, is a home restoration expert, a Registered Nurse, and popular guest chef for food and wine festivals, home shows and women’s expo’s.</p>
+
+                                    <p>Based in Texas and passionately dedicated to the celebration of Home and Family, Ms. Rost’s focus on sustainability, farm to plate, cooking with local ingredients, and food and wine pairings is heavily influenced by the months she lives and works in her recently-restored 1898 Breckenridge, CO historic mountain home, the Ben Stanley Revett Mansion now called Swan’s Nest. Check out this <a href="https://www.youtube.com/watch?v=9l7GKJH_BhM&feature=youtu.be&list=PLAAZQmIdX_M-Qv0YLL10MwIP-9oYZ4myU">video</a> on the home or view pictures shot by the <a href="http://photos.denverpost.com/2015/02/28/photos-swans-nest-house-near-breckenridge/#1">Denver Post</a>.</p>
+
+                                    <p>Ms. Rost and her husband, Randy, received the Breckenridge Heritage Alliance’s Theobald Award for historic preservation and advocacy for their outstanding remodel and preservation this past November. The Rost’s purchased the property in August 2006 and spent years restoring the home, preserving practical historic detail, but bringing its infrastructure up to modern standards. We look forward to hearing about the home’s restoration, her love of Breckenridge and her passion for cooking in March.</p>
+
+                                    <p>This summer’s schedule will feature new hikes, events especially for children in the Schoolhouse Museum, the very successful Pastry and the Past series, our historic boat rides on Lake Dillon, the ice cream social, tours of the schoolhouse museum—and a very special event, Suds at the Summit early in July. We hope you can join us!</p>
+                                </div>
+                                <div class="col-md-3">
+                                    <a href="assets/img/chef_christy_2045_2.jpg"><img src="assets/img/chef_christy_2045_2.jpg" class="img-responsive" alt="Christy Rost"/></a>
+                                    <p style="text-align:center;"><a href="http://www.christyrost.com/" target="_blank"><strong>Christy Rost</strong></a></p>
+                                </div>
+                            </div>
                         </div>
 
                     <div>
